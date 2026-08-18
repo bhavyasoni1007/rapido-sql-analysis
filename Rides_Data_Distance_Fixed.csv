@@ -1,0 +1,1000 @@
+﻿Services,Ride_Date,Ride_status,Source_pickup,Destination,Duration,Ride_id,Customer_id,Driver_id,Distance,Ride_charge,Misc_charge,Total_fare,Payment_method
+Cab,15-07-2024,completed,Ashok Nagar Boulevard,Begur Viewpoint,110,RD5026758144838213,C164,D041,49.44,762.05,37.05,799.1,Amazon Pay
+Auto,05-07-2024,completed,BTM Layout Square,Sanjay Nagar Bay,70,RD4320550637356079,C007,D036,28.06,60.56,14.7,75.26,Paytm
+Auto,23-07-2024,cancelled,Varthur Road,Sonnenahalli Road,34,RD6550222859302935,C071,D028,32.17,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Anjanapura Arcade,Hosur Road Hills,46,RD4203974126634767,C058,D042,3.69,70.8,28.59,99.39,QR scan
+Cab,15-07-2024,completed,Jakkur Commons,Bellandur Meadows,25,RD1704221483332374,C189,D041,15.55,74.41,7.98,82.39,Amazon Pay
+Auto,02-07-2024,completed,VV Puram Viewpoint,Vasanth Nagar District,14,RD1707937086291164,C174,D036,44.83,615.34,45.94,661.28,QR scan
+Cab,23-07-2024,completed,Kalena Agrahara Hills,Domlur Enclave,19,RD8932520847982750,C140,D041,4.48,799.46,16.61,816.07,GPay
+Parcel,18-07-2024,completed,Whitefield Run,Koramangala 6th Block Complex,75,RD7212618270424407,C152,D058,33.21,911.82,39.59,951.41,QR scan
+Parcel,08-08-2024,completed,Kasturi Nagar Park,Subbanna Palya Quay,53,RD6800870698954921,C009,D055,43.5,485.49,44.83,530.32,Amazon Pay
+Bike,10-07-2024,completed,Varthur 1st Stage,Balagere Vista,48,RD7609107787472588,C024,D007,23.19,831.35,3.84,835.19,QR scan
+Auto,03-08-2024,completed,Chikkagubbi Arc,Dasarahalli Extension,62,RD7166399390225853,C060,D033,23.06,821.64,30.12,851.76,QR scan
+Cab,08-07-2024,completed,Bikasipura Circle,Koramangala 6th Block Valley,98,RD4142333992945122,C155,D040,27.2,189.27,31.69,220.96,Paytm
+Cab,10-08-2024,completed,BTM Layout Pier,Begur Alcove,55,RD2695237335870962,C144,D043,10.35,203.21,49.67,252.88,Paytm
+Parcel,15-08-2024,cancelled,Chikka Banaswadi Pass,Gottigere District,20,RD5469761458243222,C184,D060,3.41,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,Banaswadi Township,Ashok Nagar Cutting,25,RD5393944099986390,C180,D018,9.74,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Banaswadi Cut,Nagawara Circle,30,RD3553098817102960,C108,D008,12.53,121.99,20.44,142.43,Paytm
+Bike,26-07-2024,completed,Koramangala 4th Block 4th Stage,Babusapalya Landing,91,RD1738409398639562,C115,D019,60.4,640.81,21.98,662.79,Paytm
+Auto,28-06-2024,completed,Kaggalipura Complex,Chikka Banaswadi Close,101,RD2556479787511132,C072,D037,90.27,731.73,29.25,760.98,Amazon Pay
+Auto,08-08-2024,completed,Ashok Nagar Cross,Chikkabellandur Quay,84,RD9194317975370275,C002,D037,18.01,697.78,27.34,725.12,GPay
+Parcel,08-08-2024,completed,BTM 2nd Stage Passage,Billekahalli Complex,98,RD6220933925757273,C041,D060,37.45,373.16,42.75,415.91,Amazon Pay
+Parcel,22-07-2024,completed,Kothnur Extension,Thanisandra Hills,105,RD5215088272605593,C109,D057,19.52,964.05,1.07,965.12,Paytm
+Auto,03-07-2024,completed,Yelahanka New Town Extension,Lingarajapuram 1st Stage,69,RD6952270765505684,C072,D027,33.66,310.68,30.07,340.75,GPay
+Cab,08-07-2024,completed,Malleshwaram Nagar,Hebbal Kempapura Lane,59,RD6438660058509461,C056,D052,38.85,967.81,49.42,1017.23,GPay
+Auto,01-07-2024,completed,Naganathapura Boulevard,Billekahalli Commons,40,RD3388474531845606,C087,D026,24.66,904.72,13.63,918.35,GPay
+Bike,21-06-2024,completed,Hulimavu Pointe,Chokkanahalli Road,119,RD3605650229478070,C024,D013,40.7,269.69,40.27,309.96,GPay
+Auto,03-08-2024,completed,Dasarahalli Sector,Hoodi Sector,38,RD1186089418412539,C025,D030,33.28,538.1,39.14,577.24,GPay
+Bike,29-06-2024,completed,Ashok Nagar Extension,Gottigere 4th Block,78,RD8761241390169008,C089,D020,11.2,749.94,6.29,756.23,QR scan
+Parcel,02-07-2024,completed,Vidyaranyapura Bay,HRBR Layout Ridge,101,RD0164749677803755,C068,D055,11.07,101.89,6.51,108.4,Paytm
+Cab,28-06-2024,completed,Gottigere 3rd Stage,Domlur Valley,47,RD4224714318978333,C187,D047,30.12,397.5,48.95,446.45,Paytm
+Cab,20-07-2024,cancelled,Kothnur View,Kudlu Meadows,45,RD1558426655586736,C138,D041,30.42,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Vidyaranyapura Mews,Bellandur Outer Ring Road Commons,75,RD0321469112384096,C097,D003,8.46,395.63,48.58,444.21,QR scan
+Auto,06-07-2024,cancelled,Ramnagar Quadrant,Kanakapura 1st Block,72,RD8811947718055189,C142,D029,10.57,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Vijayanagar Pier,Vasanth Nagar Circle,96,RD8745559377368546,C161,D049,13.48,862.55,2.98,865.53,Paytm
+Cab,22-07-2024,completed,Banashankari Cove,Benniganahalli Sector,76,RD6346549483693862,C093,D049,10.57,315.2,8.51,323.71,Amazon Pay
+Bike,25-07-2024,completed,Anekal Crescent,Dr. Shivaram Karanth Nagar Pier,24,RD6246146787032858,C050,D023,19.45,873.83,35.55,909.38,Paytm
+Auto,12-08-2024,completed,Horamavu Banaswadi Nagar,Mahalakshmi Layout Close,11,RD0787025703435590,C018,D025,23.39,128.45,41.68,170.13,Paytm
+Auto,23-07-2024,completed,Chikkalasandra Pier,Koramangala 4th Block Plaza,71,RD7920264455173515,C170,D028,45.68,836.17,17.97,854.14,Amazon Pay
+Auto,10-08-2024,completed,Vijayanagar Station,Vijayanagar Alcove,25,RD9437355751193472,C198,D029,46.98,68.12,47.36,115.48,GPay
+Parcel,28-07-2024,completed,HRBR Layout Fields,Koramangala 6th Block Quarters,21,RD3739393310201952,C021,D056,41.73,813.29,43.84,857.13,Amazon Pay
+Auto,23-07-2024,completed,Electronic City Farms,Chokkanahalli Viewpoint,21,RD6390354693964553,C026,D031,17.27,197.37,40.88,238.25,Paytm
+Bike,08-07-2024,completed,Nayandahalli Crescent,Benson Town Estate,12,RD2232492967650430,C072,D015,15.91,556.03,36.47,592.5,Paytm
+Cab,23-07-2024,completed,Shivaji Nagar Garden,Jayanagar Summit,101,RD9377447876496836,C163,D053,29.02,621.54,40.39,661.93,QR scan
+Auto,24-06-2024,completed,Subramanyapura Side,Gottigere Track,60,RD5276828232196048,C094,D027,47.83,482.61,4.58,487.19,Paytm
+Bike,22-07-2024,completed,Sadashiva Nagar Crescent,Hulimavu Alcove,102,RD5184477446295839,C095,D012,14.59,779.28,15.64,794.92,Paytm
+Auto,26-06-2024,completed,JP Nagar Grove,Kumaraswamy Layout Square,89,RD5336692423863895,C054,D035,26.56,209.29,40.54,249.83,Amazon Pay
+Auto,06-08-2024,completed,Giri Nagar Fields,Kothnur Lane,106,RD3189400667764857,C069,D036,9.66,884.78,42.87,927.65,GPay
+Bike,27-07-2024,cancelled,Dodda Banaswadi Cove,Doddanekundi Quay,34,RD1441571815467906,C175,D021,21.24,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Hosur Sarjapur Road Layout Meadows,Kanakapura Farms,73,RD6180416993381955,C019,D020,24.76,437.15,41.86,479.01,QR scan
+Bike,28-06-2024,completed,Yelahanka New Town Township,Kudlu Summit,108,RD6350224239934960,C163,D006,28.18,104.87,17.84,122.71,Amazon Pay
+Bike,04-08-2024,completed,Nayandahalli Estate,Peenya Cut,85,RD9721918715269146,C137,D024,6.51,939.53,38.69,978.22,GPay
+Cab,02-08-2024,completed,Koramangala 8th Block 4th Block,HRBR Layout Circle,57,RD9232748395540526,C063,D042,1.15,697.21,23,720.21,Amazon Pay
+Cab,07-07-2024,completed,Koramangala 4th Block Lane,Malleshwaram Close,38,RD9460176940179670,C119,D046,4.7,506.15,9.16,515.31,GPay
+Parcel,04-07-2024,completed,Billekahalli Court,Billekahalli Run,71,RD5685387624749622,C070,D060,8.48,484.52,2.54,487.06,Amazon Pay
+Bike,23-07-2024,completed,Horamavu Vista,Doddakannelli Landing,13,RD4804865926813523,C177,D018,43.53,237.09,5.61,242.7,GPay
+Bike,13-08-2024,completed,Kalena Agrahara Woods,Kaggalipura Fields,15,RD1990264432055213,C057,D022,39.1,904.15,25.25,929.4,Amazon Pay
+Bike,24-06-2024,completed,Bagalur Woods,Munnekollal 5th Block,108,RD6241105190666359,C084,D002,8.69,413.65,12.97,426.62,GPay
+Auto,06-08-2024,cancelled,Jalahalli Side,Seshadripuram Place,72,RD9075496668889885,C059,D038,27.26,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,Anjanapura 2nd Stage,Ulsoor Landing,12,RD7163642430198957,C009,D011,9.36,736.44,10.5,746.94,QR scan
+Cab,26-07-2024,completed,Seshadripuram Close,Benson Town Court,30,RD4802425547454254,C103,D044,47.3,936.3,36.69,972.99,QR scan
+Bike,03-08-2024,completed,Chikka Banaswadi Park,Kothanur Viewpoint,114,RD8884751028528949,C017,D007,31.77,959.73,32.52,992.25,Amazon Pay
+Bike,30-06-2024,completed,Peenya Yard,BTM 2nd Stage Sector,21,RD1912208191403803,C146,D023,20.39,878.18,1.38,879.56,GPay
+Bike,26-07-2024,completed,Subbanna Palya 1st Stage,Kundalahalli Fields,78,RD3391698848124896,C081,D007,38.78,634.73,43.41,678.14,Paytm
+Auto,27-07-2024,completed,Frazer Town District,VV Puram Lane,70,RD6245890520625788,C168,D031,30.24,681.86,6.4,688.26,payment_method
+Cab,15-07-2024,completed,Madiwala Fields,Devarachikkanahalli Promenade,83,RD6672832161931933,C128,D046,36.37,632.57,18.17,650.74,Amazon Pay
+Auto,05-07-2024,completed,Peenya Run,Ramnagar Side,97,RD1134210269460010,C165,D032,27.16,327.28,25.63,352.91,Paytm
+Auto,23-07-2024,cancelled,Vasanth Nagar Place,Bagalur Arc,79,RD2923468454496019,C037,D029,5.62,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Hoodi Landing,JP Nagar 6th Stage,50,RD5158254211054789,C036,D043,7.79,282.25,4,286.25,QR scan
+Cab,15-07-2024,completed,Bellandur Passage,Chikkajala Valley,101,RD5196059235912682,C191,D048,30.66,982.59,15.17,997.76,Amazon Pay
+Auto,02-07-2024,completed,Nandini Layout Village,Peenya Crescent,29,RD3724690170387432,C138,D029,46.94,726.05,25.4,751.45,QR scan
+Cab,23-07-2024,completed,Gottigere Meadows,Bagalur Side,60,RD1811766127321425,C192,D049,16.53,584.1,27.03,611.13,GPay
+Parcel,18-07-2024,completed,Arekere Way,MG Road Area,65,RD1936283004367184,C110,D059,31.49,788,25.97,813.97,QR scan
+Parcel,08-08-2024,completed,JP Nagar Heights,Bellandur Fields,94,RD0573708327362776,C103,D057,15.26,597.2,3.61,600.81,Amazon Pay
+Bike,10-07-2024,completed,Nagawara 3rd Stage,Madivala Heights,17,RD3907016375137314,C057,D005,40.1,174.64,44.94,219.58,QR scan
+Auto,03-08-2024,completed,Kaval Byrasandra Circle,Nandini Layout Trail,34,RD0241318703102650,C131,D032,48.71,325.68,35.79,361.47,QR scan
+Cab,08-07-2024,completed,Jakkasandra Place,Kasavanahalli Alley,104,RD3536966233921768,C024,D052,36.08,465.27,34.09,499.36,Paytm
+Cab,10-08-2024,completed,Chokkanahalli Landing,Kasavanahalli Yard,94,RD3163249486808659,C013,D053,21.08,849.61,30.24,879.85,Paytm
+Parcel,15-08-2024,cancelled,Kaggalipura Heights,Byatarayanapura Garden,34,RD9451769220098091,C029,D056,20.93,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,RMV 2nd Stage Hills,BTM Layout 4th Block,23,RD7083755919816493,C161,D006,36.87,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Basaveshwaranagar Township,Kalyan Nagar Enclave,61,RD6965105693370604,C175,D014,22.09,208.29,0.26,208.55,Paytm
+Bike,26-07-2024,completed,Byatarayanapura 6th Block,Basavanagudi Summit,84,RD4394484847365794,C153,D003,12.19,99.13,27.15,126.28,Paytm
+Auto,28-06-2024,completed,Peenya Layout,Koramangala 7th Block Area,94,RD4714294892172803,C099,D031,46.28,548.47,41.29,589.76,Amazon Pay
+Auto,08-08-2024,completed,Adugodi Place,Yelahanka New Town Drive,29,RD2964640920205867,C153,D032,38.89,351.78,35.91,387.69,GPay
+Parcel,08-08-2024,completed,Bagalur Drive,Kalena Agrahara Quarters,73,RD7751495356702520,C136,D057,15.99,174.23,39.9,214.13,Amazon Pay
+Parcel,22-07-2024,completed,Banerghatta Road District,Sonnenahalli Extension,40,RD2161277035178841,C142,D055,20.65,507.61,42.47,550.08,Paytm
+Auto,03-07-2024,completed,Nagawara Cutting,Hosur Zone,111,RD3814081453570671,C175,D036,35.73,201.53,45.99,247.52,GPay
+Cab,08-07-2024,completed,Hennur Road Quarry,Doddakannelli Valley,22,RD9631104865907815,C030,D050,1.39,716.83,45.77,762.6,GPay
+Auto,01-07-2024,completed,HRBR Layout Area,Munnekollal Crescent,29,RD0330858960435910,C138,D037,2.52,426.44,30.99,457.43,GPay
+Bike,21-06-2024,completed,Koramangala 7th Block Grove,Anjanapura 4th Block,118,RD3721809124759843,C069,D021,40.12,714.89,33.68,748.57,GPay
+Auto,03-08-2024,completed,Subbanna Palya Drive,Kasavanahalli Area,58,RD7469586997142439,C088,D026,1.23,560.9,27.85,588.75,GPay
+Bike,29-06-2024,completed,Harohalli Grove,Kadubeesanahalli Road,36,RD0058273562434134,C076,D014,30.57,777.32,27.65,804.97,QR scan
+Parcel,02-07-2024,completed,HSR Layout Terrace,Begur Track,65,RD8562176935351800,C041,D058,29.06,74.55,22.62,97.17,Paytm
+Cab,28-06-2024,completed,Koramangala 8th Block Yard,Vasanth Nagar Boulevard,40,RD8911800885602371,C001,D051,28.7,770.47,34.53,805,Paytm
+Cab,20-07-2024,cancelled,Kalyan Nagar Quay,Ulsoor Track,82,RD5299309350049804,C185,D044,38.1,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Sanjay Nagar Way,Madivala Bay,15,RD1452719201564416,C129,D006,44.37,487.68,15.45,503.13,QR scan
+Auto,06-07-2024,cancelled,Balagere 2nd Stage,Kaval Byrasandra Pass,88,RD1978615826107718,C130,D039,14.72,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Byatarayanapura Road,Nagawara Enclave,99,RD9368739981203781,C028,D053,26.96,306.14,25.32,331.46,Paytm
+Cab,22-07-2024,completed,Babusapalya Depot,Doddaballapur 2nd Block,74,RD9798999342198738,C161,D044,24.95,433.38,34.5,467.88,Amazon Pay
+Bike,25-07-2024,completed,JP Nagar Fields,Hosur Sarjapur Road Layout Place,87,RD7644550387319329,C164,D017,21.87,872.58,10.91,883.49,Paytm
+Auto,12-08-2024,completed,Jakkur Township,Tavarekere Valley,39,RD4765737327030968,C156,D028,28.54,537.49,4.13,541.62,Paytm
+Auto,23-07-2024,completed,Gottigere Ridge,Naganathapura Side,101,RD5280318845743855,C040,D030,22.39,957.54,27.39,984.93,Amazon Pay
+Auto,10-08-2024,completed,Rachenahalli Court,Nagwara Fields,48,RD0359944526896971,C196,D027,31.61,587.43,44.75,632.18,GPay
+Parcel,28-07-2024,completed,Jalahalli Enclave,Kasavanahalli Nagar,27,RD1873268610969261,C139,D059,16.38,671.94,30.07,702.01,Amazon Pay
+Auto,23-07-2024,completed,Jayanagar Way,Hennur Township,31,RD3853619166138620,C001,D034,44.82,341.81,30.47,372.28,Paytm
+Bike,08-07-2024,completed,Subbanna Palya Grove,Jayanagar Landing,30,RD0438761598881525,C083,D016,19.74,342.76,2.76,345.52,Paytm
+Cab,23-07-2024,completed,Kalyan Nagar Plaza,Ganganagar View,111,RD7843498075318136,C005,D041,3.26,800.44,14.92,815.36,QR scan
+Auto,24-06-2024,completed,Bhuvaneshwari Nagar Circle,JP Nagar Colony,71,RD3875531994017298,C093,D039,45.85,664.23,34.63,698.86,Paytm
+Bike,22-07-2024,completed,Kundalahalli 5th Block,Srirampura Yard,29,RD6814338496505881,C079,D008,43.49,556.51,7.85,564.36,Paytm
+Auto,26-06-2024,completed,RT Nagar Plaza,Horamavu Banaswadi 5th Stage,29,RD2117293543985469,C015,D028,43,201.03,14.16,215.19,Amazon Pay
+Auto,06-08-2024,completed,Bhadrappa Layout 1st Block,Hennur 4th Block,22,RD7057777423417265,C146,D026,41.55,860.93,28.2,889.13,GPay
+Bike,27-07-2024,cancelled,MG Road Lane,Subramanyapura Quarters,90,RD8813909309673032,C022,D024,29.92,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,ITI Layout Side,Agara Passage,28,RD4624272630258394,C125,D003,23.56,72.3,29.92,102.22,QR scan
+Bike,28-06-2024,completed,Nagwara Square,Benson Town Cutting,49,RD5385009740998149,C195,D018,24.28,732.76,9.26,742.02,Amazon Pay
+Bike,04-08-2024,completed,Nagasandra Cove,Jakkasandra Arc,19,RD5834474256249559,C197,D005,48.35,217.62,8.69,226.31,GPay
+Cab,02-08-2024,completed,KR Puram Village,Anekal 1st Block,59,RD9955231492097602,C033,D050,5.5,904.3,44.62,948.92,Amazon Pay
+Cab,07-07-2024,completed,Chikka Banaswadi Quay,Mahalakshmi Layout 5th Block,80,RD5222219217788850,C122,D048,34.56,348.93,27.89,376.82,GPay
+Parcel,04-07-2024,completed,Peenya Farms,Banerghatta Road Track,93,RD6754578162666114,C043,D057,28.05,417.54,31.16,448.7,Amazon Pay
+Bike,23-07-2024,completed,Lingarajapuram Arcade,Arekere Valley,48,RD1418379144648073,C136,D020,48.57,267.29,25.9,293.19,GPay
+Bike,13-08-2024,completed,Munnekollal 3rd Stage,Nandini Layout Bridge,118,RD9524398659053763,C109,D007,39.08,190.23,12.3,202.53,Amazon Pay
+Bike,24-06-2024,completed,Kothnur Place,Hosur Road 2nd Block,117,RD0977282052845555,C139,D024,11.79,96.92,32.64,129.56,GPay
+Auto,06-08-2024,cancelled,Billekahalli Place,VV Puram Crescent,104,RD5198691837880188,C177,D028,38.89,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,ITI Layout Works,Whitefield Crescent,65,RD8043209552401145,C183,D010,47.67,601.57,23.29,624.86,QR scan
+Cab,26-07-2024,completed,Anjanapura Track,Lingarajapuram 4th Stage,93,RD2162740412087464,C103,D050,21.33,242.11,39.41,281.52,QR scan
+Bike,03-08-2024,completed,Harohalli Extension,Hoodi Colony,107,RD4850448532031152,C167,D012,5.91,606.95,26.63,633.58,Amazon Pay
+Bike,30-06-2024,completed,Munnekollal Vista,Attibele 5th Stage,60,RD4689152402753776,C113,D017,29.12,999.36,32.26,1031.62,GPay
+Bike,26-07-2024,completed,Frazer Town Grove,Jakkur District,111,RD5871482235747234,C116,D004,43.15,809.5,4.06,813.56,Paytm
+Bike,26-07-2024,completed,Kaggalipura 2nd Block,Begur Quarry,23,RD5517478309403242,C064,D004,22.3,554.24,48.6,602.84,GPay
+Cab,15-07-2024,completed,Madivala Station,Gottigere Terrace,101,RD0398616559521440,C058,D041,32.47,231.85,14.73,246.58,Amazon Pay
+Auto,05-07-2024,completed,Kasturi Nagar Track,ITI Layout Harbor,36,RD3004752435282039,C087,D025,8.25,578.43,46.87,625.3,Paytm
+Auto,23-07-2024,cancelled,Hosur Road Quadrant,Domlur Dam,25,RD8148914444727823,C151,D033,28,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Kalena Agrahara Vista,Varthur Harbor,67,RD3696647375744074,C059,D049,12.49,100.88,19.48,120.36,QR scan
+Cab,15-07-2024,completed,Gottigere 6th Stage,Anjanapura 5th Block,62,RD7009815722995070,C057,D040,31.67,257.63,46.38,304.01,Amazon Pay
+Auto,02-07-2024,completed,ITI Layout Quadrant,Dodda Banaswadi 1st Block,31,RD0874119438241690,C019,D036,26.09,364.01,48.68,412.69,QR scan
+Cab,23-07-2024,completed,Subramanyapura Zone,BTM 2nd Stage 1st Block,58,RD8664858996960778,C162,D040,3.56,820.86,41.57,862.43,GPay
+Parcel,18-07-2024,completed,Dr. Shivaram Karanth Nagar Area,Marathahalli Cove,112,RD3832165617956185,C059,D055,47.85,861.07,10.47,871.54,QR scan
+Parcel,08-08-2024,completed,Kaval Byrasandra Quarters,Kadugodi Grove,50,RD9735187565089727,C009,D057,43.97,100.91,6.51,107.42,Amazon Pay
+Bike,10-07-2024,completed,Hosur Sarjapur Road Layout Alcove,Malleshwaram Quarry,76,RD1710626914717199,C019,D017,10.33,120.87,43.4,164.27,QR scan
+Auto,03-08-2024,completed,Mysore Road Alcove,Nagarbhavi Fork,14,RD7639590640051792,C061,D029,14.62,370.36,36,406.36,QR scan
+Cab,08-07-2024,completed,Yelahanka New Town Colony,Billekahalli 2nd Block,47,RD2498150093941467,C172,D047,4.83,836.18,26.35,862.53,Paytm
+Cab,10-08-2024,completed,Hoodi Colony,Ganganagar 3rd Stage,56,RD4937438002379385,C055,D048,6.34,844.53,16.57,861.1,Paytm
+Parcel,15-08-2024,cancelled,Sanjay Nagar Works,Harohalli District,55,RD3733434487792111,C034,D060,9.05,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,Agrahara Layout Complex,Whitefield Promenade,77,RD7938529589806617,C147,D019,16.74,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Ramamurthy Nagar Drive,Bagalur Fields,118,RD7513490558222926,C122,D008,20.84,984.31,8.66,992.97,Paytm
+Bike,26-07-2024,completed,Indiranagar Heights,Anjanapura Quarry,23,RD5440556690792913,C122,D014,9.52,617.49,30.74,648.23,Paytm
+Auto,28-06-2024,completed,Madiwala Side,Rajajinagar Farms,112,RD3631715730301864,C049,D026,18.11,447.52,10.69,458.21,Amazon Pay
+Auto,08-08-2024,completed,Gottigere 3rd Block,RMV 2nd Stage 3rd Stage,49,RD4360834896463714,C025,D035,47.64,628.43,8.6,637.03,GPay
+Parcel,08-08-2024,completed,Bhuvaneshwari Nagar Vista,Yeshwanthpur 1st Stage,44,RD1381558308535750,C111,D057,40.59,93.17,37.66,130.83,Amazon Pay
+Parcel,22-07-2024,completed,Hosur Sarjapur Road Layout Yard,Kumaraswamy Layout Landing,82,RD2228530824671207,C109,D058,28.01,403.86,41.92,445.78,Paytm
+Auto,03-07-2024,completed,Madiwala Cove,Chikka Banaswadi Cross,17,RD4038292629810486,C120,D038,8.01,339.9,2.05,341.95,GPay
+Cab,08-07-2024,completed,Agrahara Layout Enclave,Srirampura Grove,57,RD7165721723471097,C187,D040,37.49,806.58,12.08,818.66,GPay
+Auto,01-07-2024,completed,Indiranagar Place,RMV 2nd Stage 5th Block,43,RD4211098565352600,C173,D035,7.91,469.3,3.49,472.79,GPay
+Bike,21-06-2024,completed,Chikkajala Park,Pai Layout Township,99,RD8562959436908355,C166,D004,4.42,632.32,48.56,680.88,GPay
+Auto,03-08-2024,completed,Agrahara Layout Side,BTM 2nd Stage 2nd Stage,11,RD2372807392381301,C016,D031,24.78,554.33,37.46,591.79,GPay
+Bike,29-06-2024,completed,Ramamurthy Nagar Valley,Kadubeesanahalli Complex,28,RD3405238981898312,C187,D011,37.24,408.46,32.32,440.78,QR scan
+Parcel,02-07-2024,completed,Bikasipura Valley,Tavarekere Extension,103,RD6229402449684336,C028,D056,17.19,881.26,16.92,898.18,Paytm
+Cab,28-06-2024,completed,VV Puram Works,Yeshwanthpur Park,71,RD2947272871971003,C050,D043,43.26,181.27,30.66,211.93,Paytm
+Cab,20-07-2024,cancelled,Bommanahalli Village,KR Puram Bay,82,RD7131963897829909,C138,D047,3.2,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Nagarbhavi Vista,Dodda Banaswadi 1st Stage,26,RD1125830325235528,C036,D014,15.88,892.74,6.29,899.03,QR scan
+Auto,06-07-2024,cancelled,Pai Layout Arc,Chikkalasandra Pointe,106,RD8684548582142879,C047,D029,38.63,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Peenya Quarry,Yeshwanthpur 6th Block,59,RD1584658978945713,C119,D043,12.83,650.44,39.84,690.28,Paytm
+Cab,22-07-2024,completed,Kadubeesanahalli Cross,Srirampura 2nd Block,105,RD1123231265549293,C020,D047,25.81,278.67,29.55,308.22,Amazon Pay
+Bike,25-07-2024,completed,Kalyan Nagar Commons,Bikasipura 2nd Stage,65,RD4259566880299991,C141,D004,30.85,535.14,6.05,541.19,Paytm
+Auto,12-08-2024,completed,Rajarajeshwari Nagar Bay,Kudlu Gate Track,107,RD3889650482129147,C013,D035,2.88,730.82,41.81,772.63,Paytm
+Auto,23-07-2024,completed,Nandini Layout Zone,JP Nagar Close,107,RD6617722676395867,C139,D038,10.81,818.66,5.45,824.11,Amazon Pay
+Auto,10-08-2024,completed,Jakkur 3rd Stage,Banaswadi Run,98,RD6544047232784198,C004,D026,14.04,911.38,9.58,920.96,GPay
+Parcel,28-07-2024,completed,Yeshwanthpur Heights,Bommasandra Quarry,99,RD2003174362884035,C193,D056,49.01,734.37,26.41,760.78,Amazon Pay
+Auto,23-07-2024,completed,Shivaji Nagar Sector,Nagawara Ridge,50,RD9185585554821561,C043,D031,8.59,225.54,29.29,254.83,Paytm
+Bike,08-07-2024,completed,Kothanur 5th Stage,Vijayanagar Extension,41,RD2167026476126373,C125,D016,24.75,278.39,12.27,290.66,Paytm
+Cab,23-07-2024,completed,ITI Layout Mews,Bommanahalli Way,51,RD1406758640744456,C055,D053,14.43,720.13,47.05,767.18,QR scan
+Auto,24-06-2024,completed,Kothnur Cutting,Koramangala 4th Block Track,91,RD0918619353798738,C103,D039,27.52,797.63,7.89,805.52,Paytm
+Bike,22-07-2024,completed,Gottigere Landing,Nagasandra Plaza,79,RD0222785949421021,C016,D006,36.22,500.84,45.57,546.41,Paytm
+Auto,26-06-2024,completed,Domlur Bridge,Koramangala 4th Block Alcove,65,RD9378460916160082,C098,D025,8.95,604.68,17.65,622.33,Amazon Pay
+Auto,06-08-2024,completed,Gottigere 6th Block,Jayanagar Woods,83,RD8240753639368598,C100,D029,26.15,706.87,28.65,735.52,GPay
+Bike,27-07-2024,cancelled,Nayandahalli Colony,Chikka Banaswadi Fields,48,RD8351707198048553,C117,D010,40.03,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Balagere Woods,Vijayanagar Station,23,RD6141128071035697,C109,D023,31.42,607.16,34.44,641.6,QR scan
+Bike,28-06-2024,completed,Hebbal Sector,Ramnagar Alcove,117,RD4986904018202135,C188,D018,21.05,410.68,3.54,414.22,Amazon Pay
+Bike,04-08-2024,completed,Nayandahalli Run,Sonnenahalli Complex,83,RD0814058300837633,C170,D023,37.47,937.67,38.16,975.83,GPay
+Cab,02-08-2024,completed,Hosur Sarjapur Road Layout Viewpoint,Ashok Nagar Place,21,RD6990236402562463,C125,D042,6.4,380.85,2.14,382.99,Amazon Pay
+Cab,07-07-2024,completed,Seshadripuram Drive,Ashok Nagar 3rd Stage,94,RD1995215476736701,C049,D044,12.99,457.66,31.07,488.73,GPay
+Parcel,04-07-2024,completed,Babusapalya 5th Stage,Kengeri Sector,83,RD1381857806220021,C056,D055,14.98,512.88,45.14,558.02,Amazon Pay
+Bike,23-07-2024,completed,Chikkajala Colony,Hoodi Loop,84,RD7805879366152181,C149,D024,48.64,244.46,2.64,247.1,GPay
+Bike,13-08-2024,completed,Bikasipura District,Gottigere Fields,33,RD2211414515718330,C139,D002,26.56,594.39,10.69,605.08,Amazon Pay
+Bike,24-06-2024,completed,Vijayanagar Ridge,Kundalahalli Quay,24,RD1901338039795254,C192,D011,33.27,915.1,27.95,943.05,GPay
+Auto,06-08-2024,cancelled,Seshadripuram Passage,Banashankari Alcove,19,RD4087313455867381,C015,D025,27.35,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,Bagalur Crescent,KR Puram Passage,64,RD7058348757705359,C150,D016,37.2,486.79,31.32,518.11,QR scan
+Cab,26-07-2024,completed,Horamavu Banaswadi Meadows,Srirampura Square,42,RD7363976759760670,C129,D054,33.91,386.71,27.63,414.34,QR scan
+Bike,03-08-2024,completed,Koramangala 8th Block Enclave,Mahadevapura Arc,49,RD8759461544686117,C136,D006,8.87,998.37,6.74,1005.11,Amazon Pay
+Bike,30-06-2024,completed,Mahalakshmi Layout Track,Jalahalli Alley,55,RD1639079395378469,C015,D017,42.94,901.58,24.2,925.78,GPay
+Bike,26-07-2024,completed,Vasanth Nagar Enclave,Subramanyapura Cut,97,RD3459261949201394,C021,D006,7.6,142.95,45.36,188.31,Paytm
+Cab,27-07-2024,completed,Jakkasandra View,Bikasipura 5th Stage,31,RD4507555030215875,C018,D054,37.39,393.82,28.95,422.77,Paytm
+Cab,15-07-2024,completed,Magadi Road Township,ITI Layout Township,80,RD1455615384904069,C153,D041,40.76,209.25,42.68,251.93,Amazon Pay
+Auto,05-07-2024,completed,KR Puram Pointe,Bagalur Landing,47,RD7721954680395938,C173,D038,38.28,969.36,5.39,974.75,Paytm
+Auto,23-07-2024,cancelled,Kudlu Gate Side,Harohalli 4th Stage,35,RD2401220395356273,C061,D031,19.36,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Bellandur Grove,Ramamurthy Nagar Quadrant,20,RD9707515447251189,C031,D054,32.56,56.27,33.05,89.32,QR scan
+Cab,15-07-2024,completed,Lingarajapuram Nagar,Thanisandra Pier,70,RD3615442701352307,C146,D043,26.9,997.08,42.61,1039.69,Amazon Pay
+Auto,02-07-2024,completed,Kalyan Nagar Yard,Bellandur Terrace,73,RD7692458113425487,C149,D034,13.88,467.67,14.18,481.85,QR scan
+Cab,23-07-2024,completed,Basavanagudi Sector,Banashankari Cross,86,RD6045918534834287,C011,D049,23.64,334.26,16.11,350.37,GPay
+Parcel,18-07-2024,completed,Chikka Banaswadi Side,Chokkanahalli Farms,45,RD2722753455913454,C021,D058,20.4,586.95,0.79,587.74,QR scan
+Parcel,08-08-2024,completed,Rachenahalli Place,Ashok Nagar Fork,74,RD1015907035900818,C169,D059,42.06,690.6,7.16,697.76,Amazon Pay
+Bike,10-07-2024,completed,Jakkur Passage,Pai Layout 4th Stage,45,RD4556104991932019,C145,D017,48.95,615.97,26.92,642.89,QR scan
+Auto,03-08-2024,completed,Koramangala 6th Block,Byatarayanapura Circle,88,RD9611577281750827,C081,D039,2.8,93.59,48.62,142.21,QR scan
+Cab,08-07-2024,completed,Chikka Banaswadi Close,JP Nagar Arc,101,RD1302490243015333,C067,D043,20.95,437.83,4.87,442.7,Paytm
+Cab,10-08-2024,completed,Anekal 5th Stage,Hulimavu Court,55,RD9816205345026963,C172,D051,29.85,579.41,37.74,617.15,Paytm
+Parcel,15-08-2024,cancelled,Nelamangala 4th Block,Madivala Close,19,RD1168442702834549,C081,D056,19.96,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,Seshadripuram Place,Sonnenahalli Landing,97,RD3062784589897286,C068,D013,36.32,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Chandra Layout Commons,Kadubeesanahalli Drive,111,RD9666863149942871,C034,D022,10.25,358.03,28.86,386.89,Paytm
+Bike,26-07-2024,completed,Madiwala Village,Banashankari Extension,85,RD3514947959038260,C166,D010,1.93,300.62,45.16,345.78,Paytm
+Auto,28-06-2024,completed,Chikkabellandur Alley,Banashankari Pointe,10,RD4753002470037626,C118,D030,38.52,940.97,37.67,978.64,Amazon Pay
+Auto,08-08-2024,completed,Amruthahalli Farms,Doddanekundi Hills,96,RD0970123631420169,C193,D039,12.72,610.52,19.94,630.46,GPay
+Parcel,08-08-2024,completed,Byatarayanapura Fork,Subbanna Palya 3rd Block,58,RD3811096594279390,C019,D055,38.89,191.17,21.01,212.18,Amazon Pay
+Parcel,22-07-2024,completed,Magadi Road 5th Stage,Doddanekundi Alcove,96,RD6073246547942633,C118,D059,45.87,159.85,6.7,166.55,Paytm
+Auto,03-07-2024,completed,Koramangala 4th Block Bay,Ramamurthy Nagar Terrace,71,RD8558203019746089,C145,D026,25.14,494.44,16.67,511.11,GPay
+Cab,08-07-2024,completed,Nandini Layout Extension,Benniganahalli Woods,66,RD1420503970397797,C019,D048,44.32,433.21,21.46,454.67,GPay
+Auto,01-07-2024,completed,Naganathapura Area,Avalahalli Farms,88,RD3660932671997700,C055,D033,21.64,935.31,36.26,971.57,GPay
+Bike,21-06-2024,completed,Kothaguda Passage,Agrahara Layout Square,33,RD4784302024964129,C068,D005,38.94,308.45,9.39,317.84,GPay
+Auto,03-08-2024,completed,Vijayanagar View,Kudlu Gate Park,40,RD9252844709829162,C090,D039,10.66,933.33,19.88,953.21,GPay
+Bike,29-06-2024,completed,Sadashiva Nagar Way,Banaswadi Drive,82,RD3524102872844129,C018,D008,48.19,577.31,22.02,599.33,QR scan
+Parcel,02-07-2024,completed,Hulimavu Trail,Vidya Vihar Cutting,66,RD7891552818209274,C095,D057,35.47,129.6,31.37,160.97,Paytm
+Cab,28-06-2024,completed,Jayanagar Garden,Balagere Vista,90,RD5625174368901714,C041,D047,42.51,766.4,34,800.4,Paytm
+Cab,20-07-2024,cancelled,Ulsoor Quadrant,Kalyan Nagar Heights,42,RD1029235811704835,C140,D051,15.86,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,HRBR Layout Side,Agrahara Layout Estate,16,RD8588595965931048,C078,D020,35.43,955.08,26.35,981.43,QR scan
+Auto,06-07-2024,cancelled,Bikasipura Garden,Srirampura Lane,17,RD6503565137619236,C168,D033,40.4,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Horamavu Agara Sector,Mahadevapura Fork,85,RD6372044887164761,C003,D050,25.42,369.68,7.71,377.39,Paytm
+Cab,22-07-2024,completed,Chikka Banaswadi Estate,Hennur Park,64,RD8574674280104647,C142,D044,15.94,941.97,37.74,979.71,Amazon Pay
+Bike,25-07-2024,completed,Kundalahalli Garden,Dr. Shivaram Karanth Nagar Summit,24,RD2336147124231779,C170,D004,42.84,170.64,34.95,205.59,Paytm
+Auto,12-08-2024,completed,Kundalahalli Sector,JP Nagar View,103,RD1230326490847677,C035,D029,16.92,295.77,31.66,327.43,Paytm
+Auto,23-07-2024,completed,Amruthahalli Cutting,Hosur Road Nagar,36,RD1933873266176274,C030,D039,40.99,725.23,18.74,743.97,Amazon Pay
+Auto,10-08-2024,completed,Vijayanagar Cut,Electronic City View,76,RD8504986786807824,C028,D036,48.96,240.77,10.68,251.45,GPay
+Parcel,28-07-2024,completed,Whitefield Crescent,Gottigere Hills,48,RD5735660885075392,C142,D056,5.43,767.65,32.87,800.52,Amazon Pay
+Auto,23-07-2024,completed,Kothnur Zone,Vidyaranyapura Estate,31,RD7980708806348391,C070,D029,16.04,911.92,14.45,926.37,Paytm
+Bike,08-07-2024,completed,Koramangala 4th Block Loop,Mahalakshmi Layout Mews,46,RD4846045427551869,C155,D007,32.25,875.67,42.15,917.82,Paytm
+Cab,23-07-2024,completed,Sadashiva Nagar 6th Stage,Sadashiva Nagar Arcade,93,RD8167517599835288,C184,D045,40.67,156.05,13.7,169.75,QR scan
+Auto,24-06-2024,completed,Kalyan Nagar Quadrant,Kothaguda Zone,94,RD5478831211487739,C053,D035,7.2,195.38,1.75,197.13,Paytm
+Bike,22-07-2024,completed,Hoodi 2nd Block,Bommanahalli Enclave,39,RD0067360842974920,C163,D009,22.12,629.95,20.7,650.65,Paytm
+Auto,26-06-2024,completed,Ulsoor Cove,Bagalur Bay,57,RD4641074969392016,C130,D032,26.41,177.84,40.79,218.63,Amazon Pay
+Auto,06-08-2024,completed,Ulsoor Fields,Jakkasandra Place,73,RD2864571626480447,C065,D039,45.39,563.34,20.68,584.02,GPay
+Bike,27-07-2024,cancelled,Hoodi Mews,Marathahalli Heights,38,RD3130908951209585,C014,D003,37.13,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Kundalahalli Valley,Nagasandra Enclave,112,RD3432086953577629,C163,D014,7.35,565.1,46.28,611.38,QR scan
+Bike,28-06-2024,completed,Bellandur Close,Koramangala 4th Block Bay,47,RD5853935729065550,C071,D002,14.19,683.8,8.51,692.31,Amazon Pay
+Bike,04-08-2024,completed,Sarjapur 6th Stage,Marathahalli Pass,25,RD0388829436940431,C001,D011,23.5,378.23,4.26,382.49,GPay
+Cab,02-08-2024,completed,Bikasipura Plaza,Doddaballapur Plaza,83,RD2714392320397308,C198,D042,36.72,532.69,17.9,550.59,Amazon Pay
+Cab,07-07-2024,completed,Madiwala Vista,Malleshwaram 2nd Block,63,RD3689117652521080,C164,D044,6.88,380.59,4.86,385.45,GPay
+Parcel,04-07-2024,completed,Vasanth Nagar Valley,Thanisandra Sector,65,RD6766621534996818,C042,D060,18.8,896.53,11.28,907.81,Amazon Pay
+Bike,23-07-2024,completed,BTM Layout Viewpoint,Kodigehalli Complex,59,RD4972914904363357,C114,D018,18.82,106.6,7.59,114.19,GPay
+Bike,13-08-2024,completed,Tavarekere 3rd Block,Giri Nagar Ridge,29,RD8167918701848035,C181,D014,9.73,879.42,14.17,893.59,Amazon Pay
+Bike,24-06-2024,completed,Adugodi Cove,Ashok Nagar Quadrant,11,RD6096488047313206,C144,D001,34.31,348.4,8.15,356.55,GPay
+Auto,06-08-2024,cancelled,MG Road Landing,Gottigere Works,48,RD3636022305599775,C029,D026,4.25,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,Nagwara 2nd Stage,Chikkalasandra Circle,84,RD0230258263305194,C177,D005,13.02,318.62,9.53,328.15,QR scan
+Cab,26-07-2024,completed,Vijayanagar Track,Kasavanahalli Landing,110,RD4249309502836100,C140,D040,4.04,594.9,40.65,635.55,QR scan
+Bike,03-08-2024,completed,Kalyan Nagar Boulevard,Amruthahalli Layout,71,RD8525073909446921,C095,D019,29.92,600.98,45.49,646.47,Amazon Pay
+Bike,30-06-2024,completed,Basaveshwaranagar Bridge,Indiranagar Arcade,119,RD2902878795563625,C142,D005,17.62,770.09,33.03,803.12,GPay
+Bike,26-07-2024,completed,Electronic City Loop,VV Puram Valley,51,RD4639936261690694,C111,D005,46.58,288.79,45.49,334.28,Paytm
+Auto,28-07-2024,cancelled,Vijayanagar Hills,Koramangala 8th Block 3rd Block,95,RD8633840889540634,C011,D026,31.44,0,0,0,Payment Cancelled
+Cab,15-07-2024,completed,Balagere Township,Chikkabellandur Commons,115,RD2169962601109715,C079,D045,42.3,964.37,34.03,998.4,Amazon Pay
+Auto,05-07-2024,completed,Sahakar Nagar 1st Stage,RMV 2nd Stage Quadrant,74,RD9641775314314269,C011,D039,41.85,914.47,27.95,942.42,Paytm
+Auto,23-07-2024,cancelled,Ashok Nagar Extension,Horamavu Banaswadi Circle,87,RD8063750944884664,C092,D028,26.58,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Bhadrappa Layout Mews,Giri Nagar Township,58,RD4728828256149418,C175,D043,3.15,866.62,30.82,897.44,QR scan
+Cab,15-07-2024,completed,Dr. Shivaram Karanth Nagar Lane,Kalyan Nagar Esplanade,41,RD0739562996498004,C171,D041,46.12,301.81,27.23,329.04,Amazon Pay
+Auto,02-07-2024,completed,Chikkabellandur 6th Block,Chandra Layout Harbor,104,RD4050657804525933,C091,D037,18.51,862.34,48.58,910.92,QR scan
+Cab,23-07-2024,completed,Sadashiva Nagar 6th Block,Kudlu Gate Enclave,76,RD0224091496005335,C144,D054,4.16,621.37,36.36,657.73,GPay
+Parcel,18-07-2024,completed,Hoodi Zone,Ulsoor Cutting,81,RD7642991255467315,C105,D059,29.44,795.41,26.44,821.85,QR scan
+Parcel,08-08-2024,completed,Hebbal Layout,JP Nagar Yard,97,RD0672591430773441,C192,D056,16.41,367.71,6.23,373.94,Amazon Pay
+Bike,10-07-2024,completed,Nagawara Pier,Koramangala 4th Block Area,81,RD5250266740090412,C061,D006,46.18,720.37,15.36,735.73,QR scan
+Auto,03-08-2024,completed,Munnekollal Terrace,Madiwala Works,83,RD3435416394226181,C046,D039,34.98,464.06,24.83,488.89,QR scan
+Cab,08-07-2024,completed,Horamavu Works,RT Nagar Circle,85,RD0546365110279864,C106,D040,31.08,612.04,16.1,628.14,Paytm
+Cab,10-08-2024,completed,RT Nagar 1st Block,Koramangala Valley,40,RD3769033865659452,C046,D051,33.1,646.52,5.23,651.75,Paytm
+Parcel,15-08-2024,cancelled,Sonnenahalli Trail,Chikkagubbi Park,41,RD9877505373880430,C086,D058,42.45,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,Naganathapura Summit,Munnekollal Pointe,89,RD9517877551960684,C172,D024,12.75,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Munnekollal 5th Stage,Koramangala Place,87,RD7921147500617783,C064,D009,32,849.8,15.12,864.92,Paytm
+Bike,26-07-2024,completed,Hebbal Viewpoint,Sadashiva Nagar Dam,107,RD9581121351634004,C041,D023,19.97,215.94,48.25,264.19,Paytm
+Auto,28-06-2024,completed,Malleshwaram Bridge,Kadubeesanahalli Landing,49,RD2916484564414329,C028,D031,15.13,93.73,43.66,137.39,Amazon Pay
+Auto,08-08-2024,completed,Dodda Banaswadi Square,Arekere Square,32,RD8502220457778448,C010,D038,27.83,493.82,20.93,514.75,GPay
+Parcel,08-08-2024,completed,Ganganagar 4th Block,HRBR Layout Boulevard,31,RD3149277168886095,C121,D056,16.99,590.22,46.39,636.61,Amazon Pay
+Parcel,22-07-2024,completed,Doddanekundi Bay,Doddakannelli Track,45,RD4056921503964992,C052,D058,49.23,503.27,11.88,515.15,Paytm
+Auto,03-07-2024,completed,Devarachikkanahalli Loop,Doddakannelli District,99,RD7685511466365025,C090,D029,27.43,927.27,3.28,930.55,GPay
+Cab,08-07-2024,completed,Amruthahalli Arcade,Vidya Vihar Close,97,RD4288648543163701,C059,D043,3.01,950.36,33.24,983.6,GPay
+Auto,01-07-2024,completed,Malleshwaram Quadrant,Hosur Garden,51,RD2063452533341533,C007,D035,21.37,859.99,34.1,894.09,GPay
+Bike,21-06-2024,completed,Gottigere Valley,Peenya Square,46,RD0863217240346898,C050,D013,4.09,64.94,3.73,68.67,GPay
+Auto,03-08-2024,completed,Madiwala Crescent,Hosur Road Township,91,RD6788264251434818,C085,D029,26.44,605.15,18.54,623.69,GPay
+Bike,29-06-2024,completed,Chandra Layout Court,Attibele Square,93,RD6147174694509068,C018,D009,12.13,706.06,9.22,715.28,QR scan
+Parcel,02-07-2024,completed,RT Nagar Run,Chikkabellandur Hills,32,RD4086695968328632,C090,D060,25.61,172.39,39.97,212.36,Paytm
+Cab,28-06-2024,completed,Vasanth Nagar Cove,Bagalur 1st Block,102,RD3859865217409846,C131,D046,2.12,930.96,21.27,952.23,Paytm
+Cab,20-07-2024,cancelled,Kanaka Nagar Pointe,Benson Town Area,83,RD5110446845266740,C174,D053,22.11,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Dooravani Nagar Hills,Nagasandra Woods,49,RD5401458412603472,C138,D011,25.2,210.16,19.53,229.69,QR scan
+Auto,06-07-2024,cancelled,Ulsoor Lane,Benson Town Estate,46,RD2074887195430872,C008,D026,34.36,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Kengeri View,Kalena Agrahara View,58,RD8337740699920458,C067,D042,35.89,573.56,4.25,577.81,Paytm
+Cab,22-07-2024,completed,Kaggalipura Cut,Kalena Agrahara Yard,100,RD9500035788363174,C149,D044,30.37,221.41,28.93,250.34,Amazon Pay
+Bike,25-07-2024,completed,Kudlu Gate Cutting,JP Nagar Meadows,105,RD0106653604804303,C010,D004,28.48,786.2,35.7,821.9,Paytm
+Auto,12-08-2024,completed,Kothnur 1st Block,Frazer Town Circle,116,RD1821762194777715,C153,D031,46.88,164.49,2.38,166.87,Paytm
+Auto,23-07-2024,completed,Chikkabellandur Farms,Nagwara Garden,36,RD7646362592402794,C089,D036,17.59,136.43,22.96,159.39,Amazon Pay
+Auto,10-08-2024,completed,Dr. Shivaram Karanth Nagar Plaza,Kadubeesanahalli Drive,22,RD3203439118480683,C081,D031,3.22,170.07,48.05,218.12,GPay
+Parcel,28-07-2024,completed,Indiranagar Garden,BTM Layout Dam,65,RD6240567953116115,C156,D059,2.58,711.59,10.68,722.27,Amazon Pay
+Auto,23-07-2024,completed,Kudlu Colony,BTM 2nd Stage Quarters,11,RD0833842549005758,C030,D031,46.81,708.4,12.11,720.51,Paytm
+Bike,08-07-2024,completed,JP Nagar Esplanade,BTM Layout Promenade,115,RD8578986499193084,C148,D007,39.69,245.88,39.45,285.33,Paytm
+Cab,23-07-2024,completed,Hulimavu Grove,Sonnenahalli Extension,73,RD1813825243533546,C066,D040,18.82,168.15,37.83,205.98,QR scan
+Auto,24-06-2024,completed,Horamavu Banaswadi Drive,Nelamangala Commons,60,RD0098370696208631,C182,D031,18.52,54.89,34.46,89.35,Paytm
+Bike,22-07-2024,completed,Hosur Summit,Rachenahalli Track,116,RD7032366462506653,C001,D017,47.25,162.68,21.03,183.71,Paytm
+Auto,26-06-2024,completed,Kundalahalli Garden,Bagalur Garden,41,RD5364048280749442,C138,D035,35.47,487.07,39.47,526.54,Amazon Pay
+Auto,06-08-2024,completed,Chikkalasandra View,Nagwara Quadrant,76,RD2534618282219584,C185,D036,30.21,176.82,33.39,210.21,GPay
+Bike,27-07-2024,cancelled,Kalena Agrahara Landing,Babusapalya Area,55,RD0992619110473593,C189,D022,3.97,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Giri Nagar Arc,Hennur Hills,20,RD2169370148348275,C051,D012,20.94,818.46,7.49,825.95,QR scan
+Bike,28-06-2024,completed,Bhadrappa Layout Court,Banashankari Village,42,RD7077943520474357,C111,D003,14.09,660.46,48.45,708.91,Amazon Pay
+Bike,04-08-2024,completed,Vasanth Nagar Arc,Dasarahalli 2nd Stage,22,RD8868396977561622,C171,D011,27.82,350.52,38.82,389.34,GPay
+Cab,02-08-2024,completed,Koramangala 8th Block 5th Stage,Peenya Boulevard,48,RD3726470167448929,C160,D045,38.56,940.3,12.31,952.61,Amazon Pay
+Cab,07-07-2024,completed,ITI Layout Sector,Munnekollal 2nd Block,115,RD5113532130677262,C170,D053,15.43,491.96,48.03,539.99,GPay
+Parcel,04-07-2024,completed,Nagarbhavi Close,Chikkalasandra Sector,62,RD9852909338875573,C032,D060,47.89,583.47,42.05,625.52,Amazon Pay
+Bike,23-07-2024,completed,KR Puram Meadows,Ramnagar Area,69,RD6715717537169958,C077,D017,25.86,112.46,46.63,159.09,GPay
+Bike,13-08-2024,completed,Madiwala Works,Thanisandra Arcade,18,RD0849337090243781,C080,D022,31.28,325.92,18.24,344.16,Amazon Pay
+Bike,24-06-2024,completed,Kothnur 4th Stage,Peenya Court,25,RD4476007285649650,C105,D011,31.03,550.66,31.47,582.13,GPay
+Auto,06-08-2024,cancelled,Bellandur Grove,Horamavu Banaswadi Fork,14,RD5510195480856080,C104,D036,25.42,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,BTM 2nd Stage Quarry,Electronic City Boulevard,30,RD6607793498939897,C076,D018,49.67,338.38,34.27,372.65,QR scan
+Cab,26-07-2024,completed,Chokkanahalli 4th Stage,Ulsoor Valley,108,RD3332987435788956,C033,D043,33.68,224.16,39.23,263.39,QR scan
+Bike,03-08-2024,completed,Hulimavu District,Kothaguda Village,33,RD9855577832214773,C108,D022,33.49,419.47,10.76,430.23,Amazon Pay
+Bike,30-06-2024,completed,Hosur 1st Block,Ramnagar Summit,119,RD7816060595434994,C098,D022,37.58,793.48,4.91,798.39,GPay
+Bike,26-07-2024,completed,Vidyaranyapura Pass,Bikasipura Court,112,RD2631188399620881,C192,D006,30.67,881.92,25.95,907.87,Paytm
+Parcel,28-07-2024,completed,Kodigehalli Road,Bhuvaneshwari Nagar Valley,35,RD6189478798563441,C158,D060,8.94,442.3,45.17,487.47,Paytm
+Cab,15-07-2024,completed,Bikasipura Quarry,Babusapalya Quarry,83,RD9992375581167622,C146,D044,35.1,615.1,48.64,663.74,Amazon Pay
+Auto,05-07-2024,completed,Nandini Layout Village,Kothanur District,108,RD6438734431321294,C104,D033,35,319.35,32.4,351.75,Paytm
+Auto,23-07-2024,cancelled,Doddanekundi Alley,Bommasandra Bridge,67,RD8402710379409159,C001,D029,19.44,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Nagwara Meadows,Ulsoor Mews,85,RD1647846112448934,C074,D043,43.39,227.48,20.31,247.79,QR scan
+Cab,15-07-2024,completed,KR Puram Cutting,Jayanagar 3rd Stage,45,RD6815794730903243,C111,D052,11.25,998.76,28.62,1027.38,Amazon Pay
+Auto,02-07-2024,completed,Bellandur Outer Ring Road Park,Gottigere Estate,70,RD7230241497759511,C149,D034,15.51,137.49,16.36,153.85,QR scan
+Cab,23-07-2024,completed,Vidyaranyapura Summit,Pai Layout Summit,50,RD8125813118821810,C168,D045,8.15,971.4,38.44,1009.84,GPay
+Parcel,18-07-2024,completed,Vasanth Nagar Ridge,Hosur Road 6th Block,10,RD7511870109984614,C120,D058,15.99,743.5,2.08,745.58,QR scan
+Parcel,08-08-2024,completed,Kothanur Landing,BTM Layout 5th Block,53,RD2985545916957495,C114,D060,23.55,521.19,11.99,533.18,Amazon Pay
+Bike,10-07-2024,completed,Horamavu Banaswadi Cutting,Peenya Viewpoint,28,RD0873997307764445,C055,D017,18.91,257.8,4.78,262.58,QR scan
+Auto,03-08-2024,completed,Bellandur Outer Ring Road Lane,Harohalli Cove,40,RD9129300162113628,C122,D037,31.7,186.75,19.02,205.77,QR scan
+Cab,08-07-2024,completed,Nagwara 3rd Block,Malleshwaram Colony,78,RD7277923205769711,C189,D042,16.72,811.84,18.05,829.89,Paytm
+Cab,10-08-2024,completed,Byatarayanapura Plaza,Bommasandra Plaza,88,RD1539245040515834,C169,D041,12.93,443.7,3.01,446.71,Paytm
+Parcel,15-08-2024,cancelled,Nelamangala District,Chikkabellandur Grove,41,RD9457317801951777,C073,D059,27.42,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,Koramangala Mews,Kundalahalli Alcove,41,RD3163664539140794,C170,D021,37.46,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Magadi Road Farms,Banaswadi View,22,RD1263491454922239,C159,D011,37.66,821.3,43.15,864.45,Paytm
+Bike,26-07-2024,completed,Madiwala Quarry,Gottigere Depot,18,RD9173946840370820,C024,D008,35.66,721.61,11.53,733.14,Paytm
+Auto,28-06-2024,completed,Kothanur Viewpoint,Dommasandra Colony,56,RD6043535807889847,C173,D029,41.27,427.57,44.56,472.13,Amazon Pay
+Auto,08-08-2024,completed,Ramamurthy Nagar Park,Hennur Road 6th Block,47,RD1536603181846259,C058,D037,3.89,497.51,45.76,543.27,GPay
+Parcel,08-08-2024,completed,Ulsoor Sector,Bellandur Run,53,RD8500850926214310,C051,D056,27.29,234.95,45.87,280.82,Amazon Pay
+Parcel,22-07-2024,completed,Hennur Promenade,Kaggalipura Colony,80,RD4427612655559271,C007,D055,19.05,552.25,44.64,596.89,Paytm
+Auto,03-07-2024,completed,Doddanekundi Hills,Ramamurthy Nagar Drive,34,RD3071648808057091,C063,D032,14.58,335.23,25.79,361.02,GPay
+Cab,08-07-2024,completed,Domlur Cross,Lingarajapuram 4th Stage,101,RD3858709923154518,C157,D053,29.05,109.79,41.05,150.84,GPay
+Auto,01-07-2024,completed,Amruthahalli Fork,Amruthahalli Square,107,RD6007263364750688,C197,D026,13.61,745.61,10.79,756.4,GPay
+Bike,21-06-2024,completed,Banerghatta Road Pier,Benson Town Vista,10,RD4369460082447075,C117,D014,23.71,805.15,7.36,812.51,GPay
+Auto,03-08-2024,completed,Domlur Pointe,Whitefield Promenade,110,RD9282865866161815,C162,D034,5.38,167.69,10.22,177.91,GPay
+Bike,29-06-2024,completed,Devarachikkanahalli Crescent,Bellandur Depot,84,RD0553688995825928,C050,D023,33.06,937.98,27.05,965.03,QR scan
+Parcel,02-07-2024,completed,Doddaballapur Alley,Banaswadi 3rd Block,75,RD0239695310969860,C179,D058,28.82,943.63,37.35,980.98,Paytm
+Cab,28-06-2024,completed,Yelahanka 6th Stage,Marathahalli Drive,101,RD6053829025269812,C127,D046,23.29,648.6,3.64,652.24,Paytm
+Cab,20-07-2024,cancelled,Yeshwanthpur Cove,Vidya Vihar Dam,22,RD0410153031245408,C063,D042,26.05,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Dooravani Nagar 3rd Stage,Chandra Layout Woods,94,RD3517197649401997,C168,D023,48,888.42,35.4,923.82,QR scan
+Auto,06-07-2024,cancelled,Yelahanka Lane,HRBR Layout Enclave,88,RD0111868794936236,C002,D039,33.55,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Bommanahalli Esplanade,Gottigere Viewpoint,56,RD8409600650424859,C193,D053,31.1,833.47,0.98,834.45,Paytm
+Cab,22-07-2024,completed,Mahadevapura 5th Stage,Koramangala 4th Block 2nd Block,29,RD0076113392293157,C198,D054,38.79,454.44,1.95,456.39,Amazon Pay
+Bike,25-07-2024,completed,VV Puram Pass,Ramamurthy Nagar Complex,97,RD6543959617296404,C028,D014,15.32,655.18,40.91,696.09,Paytm
+Auto,12-08-2024,completed,Kanakapura 2nd Stage,Kasavanahalli Drive,111,RD4216197440988109,C057,D027,42.5,288.89,21.72,310.61,Paytm
+Auto,23-07-2024,completed,Seshadripuram Fork,Horamavu Track,36,RD9763333688497151,C179,D033,44.05,149.87,29.9,179.77,Amazon Pay
+Auto,10-08-2024,completed,Chandra Layout Sector,Arekere Hills,45,RD6320905213665707,C119,D025,31.34,610.55,1.47,612.02,GPay
+Parcel,28-07-2024,completed,Rajajinagar Crescent,HSR Layout Grove,75,RD7746695458025842,C143,D056,46.23,773.03,38.58,811.61,Amazon Pay
+Auto,23-07-2024,completed,Ulsoor Valley,Balagere Cutting,104,RD4306981591758839,C032,D032,6.69,694.02,39.13,733.15,Paytm
+Bike,08-07-2024,completed,Malleshwaram Enclave,Subbanna Palya Woods,92,RD3900776069332041,C035,D015,30.35,520.29,26.29,546.58,Paytm
+Cab,23-07-2024,completed,Kothanur Valley,Vijayanagar Boulevard,89,RD2343846882295434,C171,D048,37.91,297.11,31.07,328.18,QR scan
+Auto,24-06-2024,completed,Kothnur Township,Vasanth Nagar Meadows,48,RD6655304501932184,C144,D034,35.78,820.04,10.71,830.75,Paytm
+Bike,22-07-2024,completed,Hulimavu 1st Stage,Shivaji Nagar Track,83,RD3927793179802807,C082,D015,47.73,465.27,43.34,508.61,Paytm
+Auto,26-06-2024,completed,Madiwala Drive,Basavanagudi 2nd Stage,26,RD8286551387968182,C157,D038,26.94,709.55,37.1,746.65,Amazon Pay
+Auto,06-08-2024,completed,Chikkajala Landing,Subramanyapura Colony,34,RD3235019637790233,C185,D039,22.73,492.5,8.9,501.4,GPay
+Bike,27-07-2024,cancelled,Sahakar Nagar Fork,Jalahalli Dam,59,RD3734127527419585,C130,D014,35.57,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Banaswadi Quarry,Kaggalipura Farms,30,RD4643797631505500,C141,D015,28.22,86.01,15.21,101.22,QR scan
+Bike,28-06-2024,completed,Doddaballapur Quay,Anjanapura Cut,119,RD8471651437498134,C041,D024,23.72,221.72,4.6,226.32,Amazon Pay
+Bike,04-08-2024,completed,Banaswadi Quarters,Jayanagar Terrace,31,RD9286434616901938,C122,D015,27.48,962.93,17.18,980.11,GPay
+Cab,02-08-2024,completed,Jayanagar Area,Madivala Lane,107,RD0158778319411606,C067,D052,3.82,420.56,23.16,443.72,Amazon Pay
+Cab,07-07-2024,completed,Jakkasandra Park,Doddanekundi Terrace,34,RD1756952611573963,C064,D053,30.07,640.74,43.14,683.88,GPay
+Parcel,04-07-2024,completed,Hulimavu 1st Block,RMV 2nd Stage Cut,18,RD6490041494094375,C164,D057,3.74,722.2,7.7,729.9,Amazon Pay
+Bike,23-07-2024,completed,Bagalur Cutting,Tavarekere 3rd Block,72,RD7496697822699687,C197,D017,18.85,896.87,39.51,936.38,GPay
+Bike,13-08-2024,completed,Peenya 4th Stage,Banerghatta Road Works,39,RD1473125877477377,C125,D021,18.41,417.95,39.66,457.61,Amazon Pay
+Bike,24-06-2024,completed,ITI Layout Meadows,Hennur View,32,RD6560844643718176,C062,D009,20.34,989.39,8.33,997.72,GPay
+Auto,06-08-2024,cancelled,Srirampura Quarters,Anjanapura Layout,11,RD4554892096979100,C113,D026,13.78,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,BTM Layout Woods,Sarjapur Road,32,RD0660879146216187,C183,D010,2.89,913.58,39.72,953.3,QR scan
+Cab,26-07-2024,completed,Kadubeesanahalli Viewpoint,Indiranagar Vista,99,RD1480103341914222,C061,D044,33.19,608.37,31.11,639.48,QR scan
+Bike,03-08-2024,completed,Chikkabellandur Terrace,Adugodi Landing,57,RD1211117524277946,C086,D011,5.34,422.87,10.58,433.45,Amazon Pay
+Bike,30-06-2024,completed,Vasanth Nagar Arc,Kasavanahalli Extension,23,RD3398752890871251,C139,D003,37.56,953.93,6,959.93,GPay
+Bike,26-07-2024,completed,Naganathapura Alley,Koramangala 4th Block Hills,47,RD0031335456530706,C036,D005,3.18,317.98,11.13,329.11,Paytm
+Bike,26-07-2024,pending,Ramamurthy Nagar Depot,Subbanna Palya Square,107,RD7976011225838531,C060,D005,35.25,0,0,0,Payment Cancelled
+Cab,15-07-2024,completed,Adugodi Arcade,Bellandur Quadrant,75,RD1545137552535221,C099,D051,32.58,911.53,44.25,955.78,Amazon Pay
+Auto,05-07-2024,completed,Chikka Banaswadi Arcade,Hebbal Area,65,RD1226675873187438,C040,D036,15.24,137.81,18.54,156.35,Paytm
+Auto,23-07-2024,cancelled,Devarachikkanahalli Cross,Kothaguda Cross,75,RD8577288191144326,C055,D026,10.87,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Bellandur 4th Stage,Kengeri Plaza,102,RD9744338048386809,C107,D046,23.13,901.24,35.76,937,QR scan
+Cab,15-07-2024,completed,Byatarayanapura Harbor,Bellandur 1st Block,52,RD9933973661214567,C085,D048,37.15,293.68,30.07,323.75,Amazon Pay
+Auto,02-07-2024,completed,HRBR Layout Esplanade,Babusapalya Landing,67,RD0226441404052553,C120,D031,9.51,820.15,39.42,859.57,QR scan
+Cab,23-07-2024,completed,Gottigere Quay,Amruthahalli Cut,71,RD3916303984440912,C016,D043,35.83,717.89,49.62,767.51,GPay
+Parcel,18-07-2024,completed,Hebbal Kempapura Bridge,Kumaraswamy Layout Ridge,18,RD0467684262214928,C108,D058,28.67,748.81,40.24,789.05,QR scan
+Parcel,08-08-2024,completed,Madiwala 1st Stage,Nagasandra Landing,92,RD7081323077584320,C198,D059,23.8,342.42,37.16,379.58,Amazon Pay
+Bike,10-07-2024,completed,Begur Boulevard,Ramamurthy Nagar Quarters,47,RD4155043623373734,C179,D001,16.25,691.22,28.94,720.16,QR scan
+Auto,03-08-2024,completed,Bommanahalli Hills,Kasavanahalli Lane,79,RD7098384085365917,C196,D034,13,482.72,19.96,502.68,QR scan
+Cab,08-07-2024,completed,Dommasandra Pointe,Ganganagar District,53,RD3872254765250171,C098,D047,43.29,531.84,21.17,553.01,Paytm
+Cab,10-08-2024,completed,Sanjay Nagar Vista,Yelahanka Cove,32,RD4009402794353795,C002,D045,10.02,328.3,26.45,354.75,Paytm
+Parcel,15-08-2024,cancelled,Balagere Pointe,Chikka Banaswadi Terrace,58,RD0982834499547953,C077,D058,32.72,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,Jayanagar Hills,Hoodi Meadows,18,RD9440949249271252,C108,D018,24.26,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Hennur Road Landing,Vidyaranyapura 4th Block,81,RD1345688121310615,C192,D024,22.02,193.78,40.02,233.8,Paytm
+Bike,26-07-2024,completed,Malleshwaram Crescent,Madiwala 4th Stage,28,RD6412540054805896,C140,D020,41.79,841.62,39.69,881.31,Paytm
+Auto,28-06-2024,completed,Bhuvaneshwari Nagar Cut,Banaswadi 1st Block,54,RD5369989427180674,C057,D032,42,537.88,41.3,579.18,Amazon Pay
+Auto,08-08-2024,completed,Kadubeesanahalli Run,Hennur Road Terrace,72,RD3885601301257310,C057,D029,29.79,603.17,9.66,612.83,GPay
+Parcel,08-08-2024,completed,Kanaka Nagar Lane,Babusapalya 3rd Block,25,RD8461002492075956,C112,D058,8.98,683.64,33.28,716.92,Amazon Pay
+Parcel,22-07-2024,completed,Nagwara 6th Block,Shivaji Nagar Commons,83,RD6416673642170532,C008,D058,15.09,482.91,4.51,487.42,Paytm
+Auto,03-07-2024,completed,Shivaji Nagar Colony,Pai Layout Layout,13,RD9511855809508879,C087,D035,1.83,858.26,9.33,867.59,GPay
+Cab,08-07-2024,completed,Chikka Banaswadi Court,Benson Town Dam,32,RD0811804590949354,C174,D052,30.98,75.12,37.65,112.77,GPay
+Auto,01-07-2024,completed,Nagawara Dam,Dommasandra Colony,42,RD2369646812729540,C104,D036,39.3,256.39,31.98,288.37,GPay
+Bike,21-06-2024,completed,Sonnenahalli Layout,Kothanur Loop,95,RD8047989809002405,C043,D015,21.39,62.83,23.51,86.34,GPay
+Auto,03-08-2024,completed,Bellandur Ridge,Devarachikkanahalli Heights,76,RD5941720751250248,C033,D034,33.64,811.76,14.11,825.87,GPay
+Bike,29-06-2024,completed,Whitefield District,Devarachikkanahalli Esplanade,82,RD8131157570752979,C137,D001,41.72,449.51,17.19,466.7,QR scan
+Parcel,02-07-2024,completed,Dodda Banaswadi Mews,Chikka Banaswadi 6th Stage,51,RD6039948836070685,C101,D059,1.92,611.42,24.19,635.61,Paytm
+Cab,28-06-2024,completed,Naganathapura 1st Block,Kaggalipura Circle,115,RD8742120338050819,C145,D050,45.56,64.05,43.41,107.46,Paytm
+Cab,20-07-2024,cancelled,Kanaka Nagar Arc,Sarjapur Cross,15,RD7203293909847425,C007,D041,21.6,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Ramamurthy Nagar Bay,Kumaraswamy Layout Square,76,RD8450674279635236,C165,D014,31.12,428.74,17.3,446.04,QR scan
+Auto,06-07-2024,cancelled,Gottigere Quarters,Kalena Agrahara View,61,RD8766072152996157,C035,D038,44.1,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Balagere Arc,Hebbal Cutting,15,RD9780307992364308,C119,D042,45.84,703.7,44.75,748.45,Paytm
+Cab,22-07-2024,completed,Benniganahalli 3rd Stage,Bellandur Outer Ring Road Bay,77,RD0703372253522834,C013,D044,36.43,572.73,30.48,603.21,Amazon Pay
+Bike,25-07-2024,completed,Koramangala Colony,Madivala Depot,53,RD4141940311331944,C098,D011,14.25,356.71,41.1,397.81,Paytm
+Auto,12-08-2024,completed,Kalena Agrahara Cut,Nayandahalli Viewpoint,88,RD8371038055712046,C055,D032,36.39,644.39,35.57,679.96,Paytm
+Auto,23-07-2024,completed,Shivaji Nagar Bay,Shivaji Nagar Trail,54,RD9933506084971686,C084,D030,36.42,931.07,25.88,956.95,Amazon Pay
+Auto,10-08-2024,completed,Subbanna Palya Alley,Madivala Side,21,RD2302694466735123,C195,D039,4.23,527.53,25.39,552.92,GPay
+Parcel,28-07-2024,completed,Dasarahalli Run,Dommasandra Village,13,RD3145139702946352,C098,D057,39.07,855.31,26.85,882.16,Amazon Pay
+Auto,23-07-2024,completed,Dasarahalli Mews,Frazer Town 2nd Block,59,RD3863299494820814,C193,D038,35.04,904.7,20,924.7,Paytm
+Bike,08-07-2024,completed,Mahalakshmi Layout Depot,Kengeri Square,65,RD2151138556754092,C108,D009,47.63,700.06,11.17,711.23,Paytm
+Cab,23-07-2024,completed,Naganathapura Hills,Rajarajeshwari Nagar Farms,51,RD6898663870004111,C021,D047,31.83,940.44,47.23,987.67,QR scan
+Auto,24-06-2024,completed,Hulimavu Quarters,Bellandur Side,10,RD6064859783448698,C005,D036,29.51,500.91,4.6,505.51,Paytm
+Bike,22-07-2024,completed,Gottigere Harbor,Vidyaranyapura Harbor,74,RD0105457632204628,C139,D002,42.67,251.62,20.82,272.44,Paytm
+Auto,26-06-2024,completed,Kadugodi Passage,Kadubeesanahalli Fields,94,RD5540988794996651,C090,D028,25.03,572.47,27.2,599.67,Amazon Pay
+Auto,06-08-2024,completed,Koramangala Zone,Doddaballapur Close,113,RD6937204118776666,C167,D026,44.2,860.43,40.66,901.09,GPay
+Bike,27-07-2024,cancelled,Vijayanagar 4th Stage,Hebbal Grove,78,RD9220913314628774,C200,D021,26.56,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Kudlu Gate Promenade,KR Puram Depot,115,RD0540669107320777,C011,D001,5.65,833.75,29.84,863.59,QR scan
+Bike,28-06-2024,completed,Doddakannelli View,BTM Layout 6th Block,24,RD5983113423313309,C064,D007,18.82,146.08,16.76,162.84,Amazon Pay
+Bike,04-08-2024,completed,Nayandahalli Summit,Hulimavu Cross,82,RD2668696750274712,C006,D020,18.64,417.85,33.05,450.9,GPay
+Cab,02-08-2024,completed,BTM Layout Farms,Vidyaranyapura Fork,103,RD0846946814067182,C040,D043,32.54,593.7,19.32,613.02,Amazon Pay
+Cab,07-07-2024,completed,Bhuvaneshwari Nagar Pier,Harohalli Lane,108,RD7367468320668828,C033,D047,13.18,224.41,28.65,253.06,GPay
+Parcel,04-07-2024,completed,Dooravani Nagar Woods,Hulimavu Esplanade,84,RD9014224712052958,C172,D055,44.28,674.84,12.56,687.4,Amazon Pay
+Bike,23-07-2024,completed,JP Nagar Mews,Ashok Nagar Yard,36,RD4561179967340289,C145,D007,49.11,249.32,18.1,267.42,GPay
+Bike,13-08-2024,completed,Yelahanka New Town Ridge,Hulimavu 4th Stage,68,RD3778662876948165,C120,D023,9.75,807.4,5.27,812.67,Amazon Pay
+Bike,24-06-2024,completed,Hennur Grove,Kalyan Nagar Trail,74,RD5221825420805138,C066,D012,42.85,940.91,12.4,953.31,GPay
+Auto,06-08-2024,cancelled,Kalyan Nagar Pointe,Yeshwanthpur Extension,79,RD4255842986235968,C043,D034,8.67,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,Horamavu Cutting,Munnekollal 4th Stage,67,RD6589625047683920,C156,D024,7.68,648.38,7.98,656.36,QR scan
+Cab,26-07-2024,completed,Doddanekundi Court,Malleshwaram 2nd Stage,113,RD6238439618534768,C184,D041,31.53,556.52,0.08,556.6,QR scan
+Bike,03-08-2024,completed,Lingarajapuram Village,Sarjapur Square,26,RD9192736438428622,C200,D006,15.38,792.06,5.35,797.41,Amazon Pay
+Bike,30-06-2024,completed,Nelamangala 2nd Stage,Jalahalli 2nd Block,101,RD3312560037316789,C080,D004,40.53,814.51,2.5,817.01,GPay
+Bike,26-07-2024,completed,Bommasandra Vista,Kalyan Nagar Terrace,95,RD7583324383285701,C149,D001,25.16,711.42,31.57,742.99,Paytm
+Cab,29-07-2024,cancelled,Vasanth Nagar Sector,Nagarbhavi Alcove,55,RD2883581377128809,C080,D041,46.63,0,0,0,Payment Cancelled
+Cab,15-07-2024,completed,RT Nagar Harbor,Hulimavu Garden,61,RD2509265005541985,C148,D050,37.65,108.91,33.47,142.38,Amazon Pay
+Auto,05-07-2024,completed,Chikkabellandur Boulevard,Koramangala 6th Block Pass,74,RD5372171536604812,C097,D031,3.06,732.9,5.9,738.8,Paytm
+Auto,23-07-2024,cancelled,Bellandur Outer Ring Road Crescent,Gottigere Trail,70,RD7807282239717720,C184,D028,1.28,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Doddakannelli Square,Hulimavu Nagar,69,RD6444223461688895,C020,D049,1.42,433.78,23.18,456.96,QR scan
+Cab,15-07-2024,completed,Mysore Road 3rd Block,Hulimavu 5th Stage,56,RD9045507116220014,C177,D053,6.95,685.94,24.22,710.16,Amazon Pay
+Auto,02-07-2024,completed,Hennur Road Pointe,Hulimavu Commons,62,RD0461003973486406,C161,D028,43.37,768.29,22.16,790.45,QR scan
+Cab,23-07-2024,completed,ITI Layout Drive,Hosur Road Square,63,RD6468889569271218,C027,D051,42.03,895.78,5.2,900.98,GPay
+Parcel,18-07-2024,completed,Madiwala Valley,Begur Landing,41,RD3315503801460075,C198,D057,45.75,602.88,15.31,618.19,QR scan
+Parcel,08-08-2024,completed,Hennur Place,Rajarajeshwari Nagar Pier,106,RD5864980808806367,C176,D059,4.18,550.45,49.13,599.58,Amazon Pay
+Bike,10-07-2024,completed,Naganathapura Fork,Gottigere Quadrant,90,RD5584107272031600,C031,D019,21.55,357.34,6.74,364.08,QR scan
+Auto,03-08-2024,completed,Bhuvaneshwari Nagar Station,Jakkur Park,105,RD5913522358081714,C011,D030,32.29,995.51,35.64,1031.15,QR scan
+Cab,08-07-2024,completed,Nelamangala Pass,Giri Nagar Square,87,RD3079883688855253,C137,D046,10.58,770.15,45.84,815.99,Paytm
+Cab,10-08-2024,completed,Agrahara Layout Cut,Dommasandra Township,52,RD9872782028035192,C170,D045,8.49,585.47,27.48,612.95,Paytm
+Parcel,15-08-2024,cancelled,Kothanur 4th Stage,Sonnenahalli Works,80,RD8146495702371089,C018,D059,19.84,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,Begur Road,Chikkabellandur Depot,80,RD8415018219544773,C166,D011,39.94,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Bhuvaneshwari Nagar Square,Rachenahalli Pier,82,RD3644731639291114,C004,D014,42.36,652.59,15.25,667.84,Paytm
+Bike,26-07-2024,completed,HRBR Layout Yard,Hennur Road Square,11,RD3932079352814725,C126,D004,26.5,118.35,21.25,139.6,Paytm
+Auto,28-06-2024,completed,Sanjay Nagar Cut,Horamavu Square,10,RD4284712269045972,C111,D030,4.04,449.8,39.8,489.6,Amazon Pay
+Auto,08-08-2024,completed,Vasanth Nagar Station,Babusapalya Plaza,55,RD4810667760690326,C163,D039,45.9,850.53,34.01,884.54,GPay
+Parcel,08-08-2024,completed,Kothanur Road,Koramangala 4th Block Track,43,RD9473617576646014,C118,D060,15.66,194.78,27.64,222.42,Amazon Pay
+Parcel,22-07-2024,completed,Kudlu Gate Vista,Hoodi Vista,40,RD2944640415320521,C040,D058,3.9,925.91,16.53,942.44,Paytm
+Auto,03-07-2024,completed,Doddanekundi Lane,Nagwara District,23,RD1396370669794025,C046,D036,33.21,260.82,42.86,303.68,GPay
+Cab,08-07-2024,completed,Hulimavu Pass,Naganathapura Hills,94,RD5907588758173011,C134,D050,16.31,730.27,47.06,777.33,GPay
+Auto,01-07-2024,completed,Nelamangala Bridge,Rajarajeshwari Nagar Woods,54,RD1017977909729436,C070,D034,1.25,515.82,43.55,559.37,GPay
+Bike,21-06-2024,completed,Shivaji Nagar Run,Doddanekundi Works,85,RD2211206190264768,C138,D016,29.26,214.43,45.68,260.11,GPay
+Auto,03-08-2024,completed,Kadubeesanahalli 4th Stage,Hulimavu Court,108,RD9521428527340046,C120,D031,7.41,327.69,21.62,349.31,GPay
+Bike,29-06-2024,completed,Hennur Harbor,Rajajinagar Viewpoint,94,RD9194939877721583,C188,D019,31.26,857.39,6.94,864.33,QR scan
+Parcel,02-07-2024,completed,Vidya Vihar Pier,HRBR Layout Terrace,42,RD9534421295442256,C069,D057,3.68,224.89,5.5,230.39,Paytm
+Cab,28-06-2024,completed,Vijayanagar Extension,RMV 2nd Stage Terrace,17,RD7572745057334947,C063,D053,4.21,680.7,29.16,709.86,Paytm
+Cab,20-07-2024,cancelled,Electronic City Road,Shivaji Nagar Complex,33,RD2992024808348813,C023,D044,43.39,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Doddakannelli 6th Block,Kadugodi Bridge,92,RD7673717115763863,C116,D008,31.25,593.73,25.84,619.57,QR scan
+Auto,06-07-2024,cancelled,HSR Layout Station,Mahadevapura Valley,115,RD9124333046804558,C193,D032,33.06,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Koramangala 7th Block Estate,Basavanagudi Circle,46,RD7778151520204364,C146,D049,21.99,823.8,7.25,831.05,Paytm
+Cab,22-07-2024,completed,Mysore Road Fork,Pai Layout View,80,RD4349325452371406,C172,D046,2.74,914.51,47.55,962.06,Amazon Pay
+Bike,25-07-2024,completed,Peenya Heights,Ramamurthy Nagar Township,79,RD9634820081445517,C087,D001,17.19,373.91,45.76,419.67,Paytm
+Auto,12-08-2024,completed,Hoodi 6th Block,Jayanagar Woods,63,RD5862426522998653,C127,D038,17.56,868.01,27.08,895.09,Paytm
+Auto,23-07-2024,completed,Bommasandra Bridge,Devarachikkanahalli Trail,34,RD5162649614294630,C084,D027,17.88,441.83,15.57,457.4,Amazon Pay
+Auto,10-08-2024,completed,Sanjay Nagar Area,Whitefield Estate,75,RD9775200739753259,C125,D028,47.19,452.19,3.06,455.25,GPay
+Parcel,28-07-2024,completed,Ramamurthy Nagar Hills,Bikasipura Plaza,64,RD8556940712149567,C091,D057,44.31,586.24,32.02,618.26,Amazon Pay
+Auto,23-07-2024,completed,Madiwala 5th Block,Benniganahalli Summit,10,RD6547260387757895,C088,D029,45.48,282.41,26.87,309.28,Paytm
+Bike,08-07-2024,completed,Kumaraswamy Layout Hills,Bhadrappa Layout Drive,55,RD7977770782395681,C153,D023,35.1,981.39,26.24,1007.63,Paytm
+Cab,23-07-2024,completed,Kaval Byrasandra 1st Stage,Nagarbhavi Pointe,56,RD1420705923760569,C071,D048,7.52,934.43,36.4,970.83,QR scan
+Auto,24-06-2024,completed,Kothnur Zone,Chandra Layout Place,21,RD4053818164491684,C003,D033,29.2,511.12,6.67,517.79,Paytm
+Bike,22-07-2024,completed,Subbanna Palya Vista,VV Puram Vista,20,RD6073831996773154,C049,D003,22.45,211.4,1.47,212.87,Paytm
+Auto,26-06-2024,completed,Anekal Court,Anekal Vista,104,RD9861390242985711,C062,D036,9.17,844.1,44.27,888.37,Amazon Pay
+Auto,06-08-2024,completed,ITI Layout Cut,Nelamangala Boulevard,44,RD8529589042589600,C105,D032,8.12,914.84,8.24,923.08,GPay
+Bike,27-07-2024,cancelled,Rajarajeshwari Nagar Crescent,Nagawara 4th Block,117,RD6484350796383937,C143,D008,48.6,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Hebbal Alcove,Hulimavu Cross,22,RD7984210718924427,C177,D016,45.66,77.86,2.47,80.33,QR scan
+Bike,28-06-2024,completed,Doddakannelli Alley,Koramangala 6th Block Circle,81,RD5903012205102324,C166,D023,12.69,989.97,45.53,1035.5,Amazon Pay
+Bike,04-08-2024,completed,Srirampura Esplanade,Hebbal 4th Block,32,RD3287197266874406,C126,D015,14.43,980.69,21.42,1002.11,GPay
+Cab,02-08-2024,completed,Dodda Banaswadi District,Electronic City Farms,73,RD3723380276762091,C005,D041,33.73,907.71,21.62,929.33,Amazon Pay
+Cab,07-07-2024,completed,Benson Town Valley,Mahadevapura 2nd Block,16,RD4207113136615330,C076,D043,32.59,412.99,10.31,423.3,GPay
+Parcel,04-07-2024,completed,Dodda Banaswadi Hills,Ramamurthy Nagar Harbor,50,RD0074787626196769,C104,D060,43.3,866.58,37.14,903.72,Amazon Pay
+Bike,23-07-2024,completed,Harohalli Cove,Kothnur Loop,49,RD6976606786526424,C063,D010,6.97,408.45,38.48,446.93,GPay
+Bike,13-08-2024,completed,Horamavu Banaswadi Alcove,Munnekollal Station,31,RD4802932564626588,C170,D019,28.51,292.53,34.03,326.56,Amazon Pay
+Bike,24-06-2024,completed,BTM 2nd Stage Quay,ITI Layout Arc,119,RD1956084239986549,C095,D016,7.42,686.85,16.96,703.81,GPay
+Auto,06-08-2024,cancelled,Munnekollal 3rd Block,Varthur Farms,103,RD4947548816201460,C142,D033,16.25,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,Rajajinagar Garden,Marathahalli Lane,49,RD9282479748025304,C089,D014,24.5,974.41,8.59,983,QR scan
+Cab,26-07-2024,completed,Malleshwaram Close,Naganathapura Station,98,RD8200796786242499,C191,D048,26.22,497.86,49.67,547.53,QR scan
+Bike,03-08-2024,completed,Kaval Byrasandra 5th Block,Naganathapura Crescent,29,RD3617367026733376,C085,D012,14.17,870.17,12.28,882.45,Amazon Pay
+Bike,30-06-2024,completed,Kaggalipura Arcade,Kaval Byrasandra Boulevard,100,RD0578565134498132,C180,D015,47.94,906.41,29.93,936.34,GPay
+Bike,26-07-2024,completed,Kothanur Enclave,Doddaballapur Track,39,RD5362070582500293,C070,D010,17.4,960.99,27.79,988.78,Paytm
+Auto,06-08-2024,completed,Babusapalya Enclave,Ramamurthy Nagar Square,96,RD9152118642422366,C065,D033,38.9,89,23.9,112.9,GPay
+Cab,15-07-2024,completed,Doddakannelli Farms,Hebbal Kempapura Crescent,71,RD3545003500323812,C060,D041,22.07,788,24.94,812.94,Amazon Pay
+Auto,05-07-2024,completed,Hennur Lane,Chikkabellandur Loop,35,RD9651298965382918,C185,D028,7.52,891.84,37.37,929.21,Paytm
+Auto,23-07-2024,cancelled,Chandra Layout Valley,Ramamurthy Nagar District,47,RD4697664905605665,C081,D026,32.84,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Kasturi Nagar Sector,JP Nagar 1st Block,101,RD0460996741803449,C191,D048,43.73,969.39,10.29,979.68,QR scan
+Cab,15-07-2024,completed,Ramamurthy Nagar Farms,Gottigere Arc,114,RD0473573140158742,C196,D051,31.78,133.59,15.91,149.5,Amazon Pay
+Auto,02-07-2024,completed,VV Puram Promenade,Kanaka Nagar Garden,16,RD2979590894047997,C048,D028,39.96,133.32,48.22,181.54,QR scan
+Cab,23-07-2024,completed,Kadugodi Square,Sadashiva Nagar Bay,77,RD2248208615735922,C056,D051,23.9,352.9,43.65,396.55,GPay
+Parcel,18-07-2024,completed,Hosur Road 3rd Stage,Bellandur Outer Ring Road Valley,31,RD8006748849824717,C124,D057,19.46,140.71,42.77,183.48,QR scan
+Parcel,08-08-2024,completed,Kothanur Lane,Kadugodi Promenade,111,RD8285646866775244,C186,D059,23.04,845.55,27.43,872.98,Amazon Pay
+Bike,10-07-2024,completed,Magadi Road Passage,Sanjay Nagar Loop,97,RD7835361493295778,C195,D017,22.1,361.3,25.68,386.98,QR scan
+Auto,03-08-2024,completed,Balagere 2nd Stage,Thanisandra Dam,113,RD5661348508180649,C153,D029,22.26,115.21,40.6,155.81,QR scan
+Cab,08-07-2024,completed,Domlur 5th Block,Avalahalli Bay,69,RD0084782842267792,C026,D053,22.91,248.9,1.74,250.64,Paytm
+Cab,10-08-2024,completed,Kasavanahalli Cut,Hebbal Kempapura Quarters,75,RD6347403245062047,C050,D044,36.96,850.46,40.91,891.37,Paytm
+Parcel,15-08-2024,cancelled,HSR Layout Enclave,Kasturi Nagar Area,47,RD2226500576342353,C059,D057,33.12,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,Kanakapura Commons,Sonnenahalli Road,32,RD2349959518313227,C046,D010,44.88,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,JP Nagar Cove,Dr. Shivaram Karanth Nagar Place,59,RD7996075596917368,C004,D023,5.62,898.17,29.65,927.82,Paytm
+Bike,26-07-2024,completed,Kengeri 1st Stage,Chokkanahalli Woods,68,RD0079200663171391,C137,D005,37.24,563.84,40.9,604.74,Paytm
+Auto,28-06-2024,completed,Chikkajala Promenade,Chikka Banaswadi Works,78,RD9254554094854297,C071,D025,19.56,322.54,0.7,323.24,Amazon Pay
+Auto,08-08-2024,completed,Kasavanahalli Meadows,Chikkalasandra Alley,57,RD1110701339346057,C014,D033,28.55,146.5,18.25,164.75,GPay
+Parcel,08-08-2024,completed,Indiranagar Yard,Doddakannelli Crescent,88,RD5562205537927287,C075,D060,16.78,60.24,30.3,90.54,Amazon Pay
+Parcel,22-07-2024,completed,Kalena Agrahara 1st Block,Banaswadi View,61,RD6806426429212512,C033,D060,35.19,398.55,32.03,430.58,Paytm
+Auto,03-07-2024,completed,Chandra Layout Commons,Ramamurthy Nagar Alcove,67,RD3448594422488839,C193,D032,42.72,300.16,8.79,308.95,GPay
+Cab,08-07-2024,completed,Vijayanagar Park,Billekahalli Bay,99,RD2734629989492381,C027,D053,46.45,88.79,22.1,110.89,GPay
+Auto,01-07-2024,completed,Chikkajala Square,Adugodi Village,96,RD3369752297885778,C004,D034,1.07,220.56,2.52,223.08,GPay
+Bike,21-06-2024,completed,Ulsoor Fork,Kanaka Nagar 2nd Stage,33,RD8051747831843158,C073,D016,5.86,385.44,37.71,423.15,GPay
+Auto,03-08-2024,completed,Hosur Road Side,Jakkasandra Bridge,99,RD7148731973392654,C123,D032,10.54,190.74,40.92,231.66,GPay
+Bike,29-06-2024,completed,Koramangala 1st Stage,Subbanna Palya Extension,87,RD5374673704262233,C088,D006,10.6,892.15,49.16,941.31,QR scan
+Parcel,02-07-2024,completed,Marathahalli Harbor,Kadugodi Quarters,75,RD0870994664413199,C014,D057,28.33,803.18,13.45,816.63,Paytm
+Cab,28-06-2024,completed,Horamavu Banaswadi Road,Balagere Harbor,36,RD9840800019650855,C123,D041,17.72,604.49,9.61,614.1,Paytm
+Cab,20-07-2024,cancelled,Madiwala 2nd Block,Horamavu Commons,49,RD1843460507384278,C017,D046,15.47,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Kothanur Square,Dr. Shivaram Karanth Nagar Depot,60,RD2230059659718741,C126,D003,7.22,503.44,25.94,529.38,QR scan
+Auto,06-07-2024,cancelled,Kalyan Nagar Lane,Anekal Nagar,25,RD3718003255760518,C148,D035,36.49,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Peenya Vista,Agrahara Layout Quarry,36,RD8178145040612685,C176,D040,44.92,317.05,5.53,322.58,Paytm
+Cab,22-07-2024,completed,HRBR Layout Works,Kodigehalli Promenade,33,RD2999318585919888,C039,D042,44.19,713.08,30.45,743.53,Amazon Pay
+Bike,25-07-2024,completed,Bhadrappa Layout Terrace,Arekere Woods,45,RD5460236541529556,C145,D010,48.29,977.68,14.32,992,Paytm
+Auto,12-08-2024,completed,Kengeri Road,Avalahalli Loop,78,RD7891805563657586,C022,D028,15.57,644.37,32.55,676.92,Paytm
+Auto,23-07-2024,completed,Subbanna Palya Quarters,Mysore Road Road,60,RD8755267715852544,C031,D033,40.23,873.19,20.35,893.54,Amazon Pay
+Auto,10-08-2024,completed,Koramangala 6th Block Quarry,Rachenahalli Side,95,RD6632869740149977,C196,D031,22.97,346.82,31.12,377.94,GPay
+Parcel,28-07-2024,completed,Subbanna Palya Quadrant,Nayandahalli Square,53,RD8912213788184461,C156,D059,26.53,234.99,3.81,238.8,Amazon Pay
+Auto,23-07-2024,completed,Electronic City Works,Gottigere 5th Stage,85,RD0607842298179186,C159,D028,46.91,63.92,5.78,69.7,Paytm
+Bike,08-07-2024,completed,Devarachikkanahalli Extension,Bagalur Loop,31,RD3269632566076454,C199,D017,42.34,412.55,12.95,425.5,Paytm
+Cab,23-07-2024,completed,Amruthahalli Nagar,Yelahanka Pointe,85,RD2229039229895291,C098,D047,16.87,629.05,14.64,643.69,QR scan
+Auto,24-06-2024,completed,Kengeri Cross,Dodda Banaswadi Landing,45,RD7062343610534564,C114,D029,27.42,169.29,24.05,193.34,Paytm
+Bike,22-07-2024,completed,Sahakar Nagar Works,Dodda Banaswadi Grove,10,RD0693402882962213,C151,D014,18.96,791.7,49.36,841.06,Paytm
+Auto,26-06-2024,completed,Dodda Banaswadi Heights,Billekahalli Quarters,76,RD8236977680777133,C079,D034,42.49,849.68,3.54,853.22,Amazon Pay
+Auto,06-08-2024,completed,Sarjapur Crescent,Nelamangala Terrace,70,RD8830197946256349,C159,D025,31.34,157.71,48.33,206.04,GPay
+Bike,27-07-2024,cancelled,Chokkanahalli Run,Hebbal Terrace,60,RD5984759927643035,C157,D024,16.25,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Kothanur 1st Stage,Vidyaranyapura Fork,105,RD9098135409541449,C026,D007,1.76,745.17,23.3,768.47,QR scan
+Bike,28-06-2024,completed,Mahalakshmi Layout Landing,Dooravani Nagar District,55,RD6827457423586046,C161,D007,7.98,473.56,35.13,508.69,Amazon Pay
+Bike,04-08-2024,completed,Mahadevapura Harbor,Amruthahalli Boulevard,24,RD7170803056182007,C068,D022,18.15,713.59,5.47,719.06,GPay
+Cab,02-08-2024,completed,Bellandur Sector,Lingarajapuram View,58,RD7106119894869799,C021,D042,27.29,196.38,30.83,227.21,Amazon Pay
+Cab,07-07-2024,completed,Kudlu Landing,ITI Layout Farms,10,RD0311283947480690,C062,D042,14.05,485.97,36.28,522.25,GPay
+Parcel,04-07-2024,completed,Peenya Park,Horamavu Agara Cut,10,RD1057189660064966,C142,D055,30.25,465.05,11.03,476.08,Amazon Pay
+Bike,23-07-2024,completed,Chikka Banaswadi Pointe,Kasturi Nagar Ridge,80,RD6246438357653199,C041,D001,29.36,600.5,33.03,633.53,GPay
+Bike,13-08-2024,completed,HSR Layout Landing,RMV 2nd Stage Township,75,RD8720602956215788,C105,D015,26.65,300.55,33.07,333.62,Amazon Pay
+Bike,24-06-2024,completed,BTM Layout Crescent,HRBR Layout 3rd Stage,53,RD0543445743030663,C177,D020,43.37,274.35,42.32,316.67,GPay
+Auto,06-08-2024,cancelled,Mahadevapura Station,Vijayanagar Boulevard,71,RD6026691226904902,C121,D029,25.62,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,Dooravani Nagar Trail,Hosur Sarjapur Road Layout Quay,72,RD1451876303464056,C009,D008,17.77,891.43,11.74,903.17,QR scan
+Cab,26-07-2024,completed,Horamavu Banaswadi Bridge,Benson Town Viewpoint,26,RD7480602449014585,C074,D051,11.76,441.42,34.07,475.49,QR scan
+Bike,03-08-2024,completed,Yelahanka New Town Quarry,Koramangala 7th Block Farms,112,RD4443177512093947,C073,D023,41.99,53.99,17.54,71.53,Amazon Pay
+Bike,30-06-2024,completed,Chikkagubbi Harbor,Vidyaranyapura Close,26,RD3619808691090360,C117,D003,40.72,807.35,23.2,830.55,GPay
+Bike,26-07-2024,completed,Chikkalasandra 3rd Stage,Rajarajeshwari Nagar Grove,43,RD0152266691242120,C176,D008,8.33,383.36,43.7,427.06,Paytm
+Auto,07-09-2024,completed,Mysore Road Township,Nayandahalli Pointe,20,RD7033311659876054,C068,D029,31.47,421,0.17,421.17,Amazon Pay
+Cab,15-07-2024,completed,Koramangala 7th Block Way,Peenya Colony,58,RD6863861184131187,C161,D049,4.18,176.5,38.69,215.19,Amazon Pay
+Auto,05-07-2024,completed,Hosur Sarjapur Road Layout Pier,Lingarajapuram 2nd Block,31,RD4493796261982005,C170,D037,29.05,846.64,5.27,851.91,Paytm
+Auto,23-07-2024,cancelled,Banaswadi Zone,ITI Layout 4th Block,19,RD6060117702580972,C051,D031,26.66,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Bagalur Works,HSR Layout 1st Block,27,RD2852385478791749,C030,D048,16.62,272.73,39.62,312.35,QR scan
+Cab,15-07-2024,completed,Benniganahalli Meadows,Hennur Road Square,52,RD4477642953119185,C058,D050,46.21,633.16,20.48,653.64,Amazon Pay
+Auto,02-07-2024,completed,Basaveshwaranagar Heights,Hosur Road Esplanade,99,RD6489439141868045,C039,D039,14.87,452,0.7,452.7,QR scan
+Cab,23-07-2024,completed,Ramnagar Square,Thanisandra Township,86,RD1460642540989575,C069,D053,9.52,200.11,22.45,222.56,GPay
+Parcel,18-07-2024,completed,Agrahara Layout Hills,Rajajinagar Township,102,RD0368691760104964,C037,D055,46.16,427.51,15.12,442.63,QR scan
+Parcel,08-08-2024,completed,Anjanapura Extension,Kodigehalli 4th Block,55,RD8625281728975465,C016,D056,29.93,228.31,20.73,249.04,Amazon Pay
+Bike,10-07-2024,completed,Benson Town 4th Block,Horamavu Sector,72,RD2676099876899428,C079,D020,47.15,561.43,14,575.43,QR scan
+Auto,03-08-2024,completed,Kumaraswamy Layout 5th Stage,Kothaguda Court,78,RD2230199544256307,C192,D038,46.48,138.38,38.12,176.5,QR scan
+Cab,08-07-2024,completed,Dr. Shivaram Karanth Nagar Nagar,Babusapalya Boulevard,24,RD3893423884810895,C146,D054,18.85,203.48,46.86,250.34,Paytm
+Cab,10-08-2024,completed,Dooravani Nagar Square,Dommasandra Circle,56,RD8718100123434827,C074,D047,16.64,664.58,3.28,667.86,Paytm
+Parcel,15-08-2024,cancelled,Babusapalya Commons,Malleshwaram Square,65,RD7222229221176794,C032,D058,20.89,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,Bommanahalli Estate,Kudlu Vista,107,RD5836494932231403,C177,D010,6.72,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Anjanapura Heights,Avalahalli 1st Stage,60,RD2034572820721233,C180,D013,14.07,705.05,46.99,752.04,Paytm
+Bike,26-07-2024,completed,Begur View,Kalena Agrahara Woods,53,RD3801257267070522,C070,D017,30,680.17,44.83,725,Paytm
+Auto,28-06-2024,completed,BTM Layout Bridge,Nagwara Quadrant,25,RD2390668225378253,C139,D032,5.7,568.23,24.31,592.54,Amazon Pay
+Auto,08-08-2024,completed,Yeshwanthpur Lane,Arekere Area,22,RD7943593420286014,C113,D026,46.35,524.84,0.85,525.69,GPay
+Parcel,08-08-2024,completed,Kalyan Nagar Lane,Bikasipura 3rd Stage,41,RD6077591126566416,C154,D055,16.01,713.99,33.21,747.2,Amazon Pay
+Parcel,22-07-2024,completed,Chokkanahalli Meadows,Rachenahalli Court,88,RD2565375194209270,C111,D060,49.34,785.25,31.61,816.86,Paytm
+Auto,03-07-2024,completed,Vijayanagar Vista,Koramangala 4th Block Station,16,RD2781887981222897,C083,D034,20.49,943.63,13.17,956.8,GPay
+Cab,08-07-2024,completed,Ramamurthy Nagar 1st Block,Bagalur Sector,29,RD5588868425674837,C065,D040,32.95,190.88,19.26,210.14,GPay
+Auto,01-07-2024,completed,Byatarayanapura Garden,Chikkagubbi Crescent,41,RD2620487300751844,C024,D028,23.82,659.96,14.97,674.93,GPay
+Bike,21-06-2024,completed,Hosur Quadrant,Yeshwanthpur 4th Stage,101,RD8405909033991826,C173,D019,49.55,664.6,30.27,694.87,GPay
+Auto,03-08-2024,completed,Doddanekundi 3rd Stage,Anekal Depot,85,RD0722229846052770,C151,D025,16.48,861.86,24.5,886.36,GPay
+Bike,29-06-2024,completed,Rajajinagar 5th Stage,Yelahanka New Town Loop,16,RD6957788784161639,C196,D022,13.81,836.56,30.72,867.28,QR scan
+Parcel,02-07-2024,completed,Kaggalipura Complex,Dr. Shivaram Karanth Nagar Side,103,RD0911892647820763,C069,D059,18.55,439.86,40.91,480.77,Paytm
+Cab,28-06-2024,completed,Pai Layout Township,Bellandur Outer Ring Road Hills,41,RD0476368022962222,C011,D052,34.98,633.2,47.54,680.74,Paytm
+Cab,20-07-2024,cancelled,Hulimavu Bay,Chikkajala Arc,33,RD4044307592192373,C194,D042,31.67,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Pai Layout Cut,Kumaraswamy Layout Quarters,48,RD7041521685136496,C121,D017,18.48,91.48,19.94,111.42,QR scan
+Auto,06-07-2024,cancelled,Nagawara Pass,Adugodi Zone,54,RD3096708142559040,C167,D032,45.79,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Koramangala 8th Block Side,Electronic City Close,21,RD6024878301019819,C072,D042,31.14,742.28,45,787.28,Paytm
+Cab,22-07-2024,completed,Chikkalasandra 5th Stage,Bellandur Outer Ring Road Township,32,RD2863882392264162,C150,D046,13.66,325.1,35.91,361.01,Amazon Pay
+Bike,25-07-2024,completed,Jakkur Plaza,Jakkur Works,38,RD0514823832998875,C163,D016,21.14,971.68,36.29,1007.97,Paytm
+Auto,12-08-2024,completed,Ganganagar 6th Stage,Kanakapura Arcade,64,RD7768271455647848,C024,D032,7.58,292.89,5.38,298.27,Paytm
+Auto,23-07-2024,completed,Banaswadi Landing,Bhadrappa Layout Heights,44,RD9002576935876570,C090,D031,12.2,507.65,22.78,530.43,Amazon Pay
+Auto,10-08-2024,completed,Benniganahalli Yard,Sarjapur Square,23,RD5901899082695935,C086,D030,30.95,695.68,34.16,729.84,GPay
+Parcel,28-07-2024,completed,Vidya Vihar Cutting,Hulimavu Extension,111,RD7871470106546776,C172,D055,15.12,517.1,30.7,547.8,Amazon Pay
+Auto,23-07-2024,completed,Shivaji Nagar Station,Byatarayanapura Dam,101,RD3806232773980130,C042,D030,13.06,355.4,3.82,359.22,Paytm
+Bike,08-07-2024,completed,Bellandur Outer Ring Road Commons,RT Nagar Commons,53,RD1658095335923207,C106,D023,13.51,196.68,31.6,228.28,Paytm
+Cab,23-07-2024,completed,Hoodi 2nd Block,Kumaraswamy Layout Zone,46,RD1714206279863157,C127,D044,33.42,705.1,31.69,736.79,QR scan
+Auto,24-06-2024,completed,Bhadrappa Layout Meadows,Chikkalasandra Commons,29,RD9634774286235176,C170,D031,32.89,590.55,26.05,616.6,Paytm
+Bike,22-07-2024,completed,Nagasandra Colony,Hennur Drive,54,RD3373966466461242,C195,D018,44.5,775.42,23.64,799.06,Paytm
+Auto,26-06-2024,completed,Gottigere Complex,Nandini Layout 1st Stage,22,RD3256910422587373,C010,D032,8.74,213.33,33.86,247.19,Amazon Pay
+Auto,06-08-2024,completed,Chandra Layout Heights,Rachenahalli Colony,43,RD6310157873385566,C023,D030,49.14,631.13,6.28,637.41,GPay
+Bike,27-07-2024,cancelled,Yelahanka New Town Zone,Devarachikkanahalli Passage,119,RD3247034559501637,C065,D011,20.21,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Kothnur Park,Rajajinagar Drive,82,RD0631991363032916,C030,D013,24,889.73,14.89,904.62,QR scan
+Bike,28-06-2024,completed,Rajarajeshwari Nagar District,KR Puram Boulevard,87,RD5543277561866732,C132,D001,28.31,574.39,40.63,615.02,Amazon Pay
+Bike,04-08-2024,completed,Hennur Colony,Magadi Road 6th Stage,23,RD4010715748787355,C169,D018,10.44,173.06,3.65,176.71,GPay
+Cab,02-08-2024,completed,Horamavu Agara Heights,Subbanna Palya Fields,76,RD4715538403586145,C119,D046,11.88,161.11,38.86,199.97,Amazon Pay
+Cab,07-07-2024,completed,BTM 2nd Stage Quadrant,Ramamurthy Nagar 5th Stage,55,RD4648052089842164,C014,D043,24.72,629.1,23.92,653.02,GPay
+Parcel,04-07-2024,completed,Kalena Agrahara 4th Block,Kothnur Cutting,63,RD4128096695493787,C133,D057,26.72,490.76,20.35,511.11,Amazon Pay
+Bike,23-07-2024,completed,Yelahanka New Town District,Horamavu Farms,43,RD7666019194687293,C160,D016,26.92,284.8,13.11,297.91,GPay
+Bike,13-08-2024,completed,Chikkagubbi Depot,Bhadrappa Layout Bridge,114,RD1861347137392465,C161,D015,20.86,476.07,19.99,496.06,Amazon Pay
+Bike,24-06-2024,completed,Sadashiva Nagar Complex,Benson Town Grove,117,RD2404379589580164,C195,D002,25.18,762.06,48.61,810.67,GPay
+Auto,06-08-2024,cancelled,Nagarbhavi Quay,Jayanagar Vista,79,RD4057146539234290,C053,D029,45.18,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,Kothaguda 6th Stage,Vasanth Nagar Passage,20,RD4482868368555438,C141,D005,47.96,340.84,20.76,361.6,QR scan
+Cab,26-07-2024,completed,Koramangala 7th Block Harbor,Kalena Agrahara Alcove,82,RD4879857654796106,C074,D047,49.75,837.26,8.21,845.47,QR scan
+Bike,03-08-2024,completed,Malleshwaram Extension,Hosur Quay,19,RD8982732852368196,C179,D016,24.19,697.73,5.52,703.25,Amazon Pay
+Bike,30-06-2024,completed,Nagarbhavi Quarters,Balagere 6th Block,83,RD7757968131351532,C032,D001,7.19,323.59,42.46,366.05,GPay
+Bike,26-07-2024,completed,Madivala Promenade,Kothanur Garden,56,RD2886988608940691,C162,D020,7.58,342.68,5.29,347.97,Paytm
+Cab,29-07-2024,completed,Srirampura Yard,ITI Layout Sector,63,RD5998371615462956,C062,D047,48.75,431.84,15.09,446.93,Paytm
+Cab,15-07-2024,completed,Vidya Vihar Grove,Harohalli Meadows,83,RD6624835091627319,C182,D042,3.21,53.73,19.03,72.76,Amazon Pay
+Auto,05-07-2024,completed,Chikka Banaswadi Close,Jakkasandra Lane,49,RD9036149025934604,C080,D033,36.53,944.43,18.18,962.61,Paytm
+Auto,23-07-2024,cancelled,BTM Layout Crescent,Nandini Layout Loop,93,RD1841609922146014,C004,D033,18.55,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Byatarayanapura Zone,Mahadevapura Dam,25,RD9774276667411855,C105,D041,11.34,402.13,12.85,414.98,QR scan
+Cab,15-07-2024,completed,Harohalli Way,Kundalahalli Garden,24,RD9573610340598957,C058,D053,25.8,503.7,41.55,545.25,Amazon Pay
+Auto,02-07-2024,completed,Ramamurthy Nagar Lane,Basaveshwaranagar Grove,46,RD9642324905748988,C030,D032,48.06,116.19,22.28,138.47,QR scan
+Cab,23-07-2024,completed,Anekal Run,Vasanth Nagar Landing,106,RD6080546293622783,C031,D050,8.17,424.78,30.51,455.29,GPay
+Parcel,18-07-2024,completed,Billekahalli Hills,Hulimavu Landing,69,RD2609309331996162,C040,D058,45.55,347.2,13.49,360.69,QR scan
+Parcel,08-08-2024,completed,Sadashiva Nagar Loop,Bommasandra Yard,99,RD4264466496767845,C184,D057,37.35,455.05,17.88,472.93,Amazon Pay
+Bike,10-07-2024,completed,MG Road View,Jayanagar Bay,37,RD0257231326744846,C131,D023,32.49,206.86,49.83,256.69,QR scan
+Auto,03-08-2024,completed,Ganganagar 2nd Block,Frazer Town Colony,91,RD9050609334698775,C070,D031,43.32,685.17,27.2,712.37,QR scan
+Cab,08-07-2024,completed,Banerghatta Road View,Vijayanagar Road,107,RD8227316791687513,C124,D047,20.12,460.11,21.64,481.75,Paytm
+Cab,10-08-2024,completed,Bhadrappa Layout 6th Block,Chikkabellandur 1st Block,18,RD0840406734856224,C063,D047,34.49,404.13,16.62,420.75,Paytm
+Parcel,15-08-2024,cancelled,Magadi Road Harbor,Varthur Station,31,RD7644619615873147,C142,D056,26.67,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,HRBR Layout Quay,Horamavu Agara Hills,95,RD8275165556524314,C099,D007,13.24,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Chikkagubbi Cut,Chikkalasandra Hills,73,RD8187283798047370,C154,D017,25.24,979.8,47.96,1027.76,Paytm
+Bike,26-07-2024,completed,MG Road Meadows,Subbanna Palya Crescent,70,RD2167928576186429,C192,D005,7.64,387.96,21.02,408.98,Paytm
+Auto,28-06-2024,completed,Madivala Colony,Hennur Road Village,41,RD9080253127746921,C018,D029,1.82,92.3,3.75,96.05,Amazon Pay
+Auto,08-08-2024,completed,Agara Zone,Bikasipura Plaza,110,RD1154130292291619,C198,D037,28.49,925.5,38.64,964.14,GPay
+Parcel,08-08-2024,completed,Yelahanka New Town Esplanade,Gottigere Hills,71,RD3996262818503948,C107,D057,16.64,280.13,24.75,304.88,Amazon Pay
+Parcel,22-07-2024,completed,Banaswadi Side,Dodda Banaswadi Square,65,RD4050147209794306,C130,D057,22.72,556.29,24.9,581.19,Paytm
+Auto,03-07-2024,completed,Bommanahalli Heights,Nayandahalli Quadrant,48,RD5231908807048983,C001,D029,37.64,591.49,28.62,620.11,GPay
+Cab,08-07-2024,completed,Agara Trail,Yeshwanthpur Landing,47,RD6025020656765660,C186,D044,3.75,969.8,1.16,970.96,GPay
+Auto,01-07-2024,completed,Banerghatta Road Meadows,Koramangala 8th Block Zone,114,RD0100509216530378,C151,D034,30.62,840.94,0.83,841.77,GPay
+Bike,21-06-2024,completed,Yelahanka New Town Circle,Rachenahalli Terrace,20,RD3715520965039301,C169,D016,45.59,495.91,7.22,503.13,GPay
+Auto,03-08-2024,completed,Yelahanka New Town 2nd Block,Chandra Layout Heights,24,RD5099767656886397,C039,D032,44.7,354.52,4.85,359.37,GPay
+Bike,29-06-2024,completed,Horamavu Agara Passage,Munnekollal Quarters,109,RD8488722397885642,C138,D016,40.15,747.03,3.87,750.9,QR scan
+Parcel,02-07-2024,completed,Sahakar Nagar Quarry,Srirampura Complex,103,RD2538825527564449,C089,D057,17.95,463.23,32.5,495.73,Paytm
+Cab,28-06-2024,completed,Arekere Complex,Ramamurthy Nagar Viewpoint,108,RD1465767187498877,C142,D052,34.21,232.18,23.64,255.82,Paytm
+Cab,20-07-2024,cancelled,Gottigere Lane,Billekahalli Woods,112,RD3579368330435912,C140,D046,11.65,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Chokkanahalli 6th Block,Madivala 1st Stage,64,RD0373392087840060,C117,D011,23.42,313.62,11.84,325.46,QR scan
+Auto,06-07-2024,cancelled,Kodigehalli 1st Stage,Kothanur View,111,RD7150016894866756,C049,D036,19.44,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Kalena Agrahara Works,Rajarajeshwari Nagar Viewpoint,97,RD6383686400805855,C062,D049,25.88,531.36,27.84,559.2,Paytm
+Cab,22-07-2024,completed,Subbanna Palya Heights,Kundalahalli Quarters,37,RD0542538314526088,C099,D043,1.83,684.29,41.34,725.63,Amazon Pay
+Bike,25-07-2024,completed,Avalahalli Lane,Jakkur Arc,106,RD8231694936148383,C199,D014,4.53,53.51,33.29,86.8,Paytm
+Auto,12-08-2024,completed,Anekal Yard,Kanaka Nagar Harbor,19,RD6837411099858422,C012,D030,24.27,616.61,34.58,651.19,Paytm
+Auto,23-07-2024,completed,Chikkalasandra Quadrant,Bhuvaneshwari Nagar Alcove,17,RD7542487735088077,C191,D032,35.65,172.53,1.34,173.87,Amazon Pay
+Auto,10-08-2024,completed,Doddaballapur Township,Bhadrappa Layout Quarry,61,RD2515090321493028,C181,D039,28.77,195.53,39.08,234.61,GPay
+Parcel,28-07-2024,completed,Koramangala Fork,Kudlu Way,96,RD6285710155433477,C098,D058,21.42,914.42,39.06,953.48,Amazon Pay
+Auto,23-07-2024,completed,Hulimavu Cross,Chikka Banaswadi Mews,14,RD3045495353892571,C170,D037,39.97,748.85,23.21,772.06,Paytm
+Bike,08-07-2024,completed,Kumaraswamy Layout Landing,Koramangala Ridge,80,RD3890806275341036,C167,D005,41.52,225.09,0.96,226.05,Paytm
+Cab,23-07-2024,completed,Benson Town Estate,HSR Layout 2nd Block,42,RD6303111084939687,C127,D040,26.56,324.88,42.51,367.39,QR scan
+Auto,24-06-2024,completed,Ramnagar Loop,RMV 2nd Stage Valley,86,RD7687095143385121,C033,D033,34.77,625.04,36.58,661.62,Paytm
+Bike,22-07-2024,completed,Devarachikkanahalli Plaza,Madiwala 3rd Block,35,RD0681688429736389,C152,D011,22.4,200.41,37.56,237.97,Paytm
+Auto,26-06-2024,completed,Hennur Road Complex,Benniganahalli Sector,115,RD0657147570452021,C026,D038,10.92,384.22,1.84,386.06,Amazon Pay
+Auto,06-08-2024,completed,Sadashiva Nagar Cross,Vidyaranyapura Ridge,52,RD7018078199069505,C113,D026,21.88,62.92,23.49,86.41,GPay
+Bike,27-07-2024,cancelled,Nayandahalli Enclave,Sanjay Nagar Yard,30,RD8399482421054019,C135,D015,1.78,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Yelahanka New Town Esplanade,Rajajinagar Arc,48,RD5159393684738552,C004,D024,11.31,580.81,3.85,584.66,QR scan
+Bike,28-06-2024,completed,Lingarajapuram Grove,RMV 2nd Stage Woods,64,RD5865511387163954,C037,D014,34.09,254.6,49.55,304.15,Amazon Pay
+Bike,04-08-2024,completed,Jalahalli Promenade,Billekahalli Circle,52,RD2567895418087439,C168,D005,19.05,317.3,9.51,326.81,GPay
+Cab,02-08-2024,completed,Nagawara Fields,Kumaraswamy Layout Sector,33,RD9453811856238938,C020,D047,45.73,157.63,25.76,183.39,Amazon Pay
+Cab,07-07-2024,completed,Madiwala Court,Horamavu Loop,24,RD1392285661757250,C068,D045,23.27,904.43,35.05,939.48,GPay
+Parcel,04-07-2024,completed,Bommanahalli 4th Stage,Basavanagudi Colony,56,RD5791649558015677,C160,D060,29.38,874.48,12.38,886.86,Amazon Pay
+Bike,23-07-2024,completed,Kalena Agrahara Fields,MG Road Depot,12,RD1337002040951630,C102,D021,23.49,244.16,14.03,258.19,GPay
+Bike,13-08-2024,completed,Subbanna Palya Zone,JP Nagar Crescent,21,RD7599342269468057,C021,D011,36.7,928.66,10.33,938.99,Amazon Pay
+Bike,24-06-2024,completed,Benniganahalli Station,Kadubeesanahalli Vista,94,RD4277322494501510,C173,D018,33.54,77.33,7.04,84.37,GPay
+Auto,06-08-2024,cancelled,Kengeri 6th Stage,Jayanagar Cut,29,RD3282026328725889,C098,D030,11.22,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,Doddanekundi Pier,Koramangala 8th Block Arcade,13,RD4261791663651258,C161,D023,18.9,164.19,41.62,205.81,QR scan
+Cab,26-07-2024,completed,Kanakapura Enclave,Balagere Court,87,RD5808246647112115,C195,D047,23.38,79.72,43.09,122.81,QR scan
+Bike,03-08-2024,completed,Kaval Byrasandra Terrace,Bommasandra Depot,118,RD9519928055406527,C139,D002,35.22,528.09,18.88,546.97,Amazon Pay
+Bike,30-06-2024,completed,Agara Mews,Nagarbhavi Court,76,RD9799989354002756,C159,D003,14.72,914.86,4.34,919.2,GPay
+Bike,26-07-2024,completed,Sonnenahalli Cutting,Hennur Road Pass,60,RD0132554244232133,C061,D021,28.46,536.85,30.58,567.43,Paytm
+Bike,30-06-2024,cancelled,Ashok Nagar Plaza,RT Nagar Area,17,RD7033084750863353,C176,D003,6.44,0,0,0,Payment Cancelled
+Cab,15-07-2024,completed,Nagarbhavi Crescent,Hulimavu Summit,100,RD0527122981772578,C074,D043,47.65,823.83,17.82,841.65,Amazon Pay
+Auto,05-07-2024,completed,Doddanekundi Close,Byatarayanapura Layout,114,RD4430370585305896,C192,D026,10.61,123.07,29.1,152.17,Paytm
+Auto,23-07-2024,cancelled,Koramangala Heights,Chikkajala Cross,50,RD9026313197493018,C112,D026,13.21,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Whitefield Valley,Benniganahalli Fields,21,RD9307827539974565,C195,D050,40.84,249.17,8.52,257.69,QR scan
+Cab,15-07-2024,completed,Kalyan Nagar Lane,Chikkagubbi Farms,71,RD0002325822880682,C181,D053,13.67,480.3,29.46,509.76,Amazon Pay
+Auto,02-07-2024,completed,Mahalakshmi Layout District,Hebbal Square,70,RD9035224631885777,C026,D032,17.77,173.32,11.93,185.25,QR scan
+Cab,23-07-2024,completed,Nayandahalli Heights,Bommanahalli Track,68,RD2072437089217855,C043,D051,29.27,161.46,9.23,170.69,GPay
+Parcel,18-07-2024,completed,Horamavu Banaswadi Woods,Kadubeesanahalli 6th Block,44,RD5285111238579158,C077,D055,2.77,300.86,15.17,316.03,QR scan
+Parcel,08-08-2024,completed,Giri Nagar Summit,Kadugodi Boulevard,81,RD8345443789867149,C012,D057,35.89,623.15,17.3,640.45,Amazon Pay
+Bike,10-07-2024,completed,Benson Town Meadows,Sanjay Nagar Fields,56,RD3035255578873523,C015,D010,45.19,957.01,20.83,977.84,QR scan
+Auto,03-08-2024,completed,Bellandur Layout,HSR Layout 5th Block,83,RD7800361070141686,C092,D030,8.15,189.24,42.96,232.2,QR scan
+Cab,08-07-2024,completed,Gottigere Cutting,Dooravani Nagar Cove,114,RD5948821893958195,C111,D042,46.84,750.83,21.43,772.26,Paytm
+Cab,10-08-2024,completed,Ganganagar Dam,Jakkasandra Alley,41,RD4673917921463562,C063,D048,29.95,964.19,45.85,1010.04,Paytm
+Parcel,15-08-2024,cancelled,Sahakar Nagar Park,Chikkalasandra Park,39,RD4836552895701946,C106,D059,44.18,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,Hebbal Kempapura Lane,Rachenahalli Plaza,35,RD9571694633242299,C175,D006,37.64,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Dooravani Nagar Meadows,Vasanth Nagar Layout,70,RD0122332212867467,C044,D006,27.45,240.8,48.25,289.05,Paytm
+Bike,26-07-2024,completed,Anjanapura Station,Amruthahalli Vista,90,RD5431968284005977,C021,D020,23.29,775.27,22.75,798.02,Paytm
+Auto,28-06-2024,completed,Bhadrappa Layout 1st Block,HRBR Layout Landing,62,RD1389042691358221,C098,D034,10.57,876.28,7.47,883.75,Amazon Pay
+Auto,08-08-2024,completed,Hoodi Close,Kasavanahalli Cutting,44,RD6609498846406298,C175,D028,7.66,948.31,26.4,974.71,GPay
+Parcel,08-08-2024,completed,Hosur Sarjapur Road Layout Quadrant,Kanaka Nagar Farms,91,RD3252047183909101,C128,D059,31.5,282.68,17.45,300.13,Amazon Pay
+Parcel,22-07-2024,completed,MG Road Nagar,Subbanna Palya View,87,RD4570346730184544,C037,D056,2.02,924.51,35.23,959.74,Paytm
+Auto,03-07-2024,completed,Kanaka Nagar Hills,Kanaka Nagar Run,68,RD5728950157050377,C119,D035,42.17,583.21,0.94,584.15,GPay
+Cab,08-07-2024,completed,KR Puram 3rd Stage,Banashankari Dam,92,RD5100261131439454,C066,D047,23,911.97,42.12,954.09,GPay
+Auto,01-07-2024,completed,Lingarajapuram Plaza,RT Nagar Loop,49,RD6646580944124314,C066,D035,17.71,854.84,35.46,890.3,GPay
+Bike,21-06-2024,completed,Devarachikkanahalli Valley,Banashankari Vista,88,RD6538176851929596,C003,D015,14.86,979.5,5.2,984.7,GPay
+Auto,03-08-2024,completed,Koramangala 4th Block Mews,Tavarekere Station,52,RD0673679223400744,C074,D035,33.93,422.09,41.92,464.01,GPay
+Bike,29-06-2024,completed,Pai Layout Area,Kadubeesanahalli Way,14,RD3866103299279503,C140,D006,6.35,684.36,36.45,720.81,QR scan
+Parcel,02-07-2024,completed,Whitefield Square,Hulimavu Arcade,43,RD5541497794572410,C019,D058,9.64,579.87,14.45,594.32,Paytm
+Cab,28-06-2024,completed,Indiranagar Area,Anjanapura 4th Block,93,RD7515778613287363,C089,D049,28.26,266.16,5.99,272.15,Paytm
+Cab,20-07-2024,cancelled,Tavarekere Summit,Lingarajapuram Ridge,79,RD3550967790200181,C077,D050,14.35,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Jakkasandra Station,Vidyaranyapura Depot,60,RD6517824063933555,C109,D023,7.97,866.55,49.33,915.88,QR scan
+Auto,06-07-2024,cancelled,Chokkanahalli Fork,Sadashiva Nagar Place,70,RD4833094575550098,C065,D032,42.37,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Balagere Way,Banerghatta Road Square,30,RD9635819829273063,C078,D043,41.3,734.78,37.83,772.61,Paytm
+Cab,22-07-2024,completed,Bommanahalli Quarry,Mysore Road Enclave,110,RD5082213367443251,C099,D053,6.09,501.73,8.73,510.46,Amazon Pay
+Bike,25-07-2024,completed,Hosur Sarjapur Road Layout 6th Stage,Bommasandra Woods,83,RD5003046335109786,C124,D004,43.54,660.13,26.49,686.62,Paytm
+Auto,12-08-2024,completed,Amruthahalli Fields,Billekahalli Crescent,101,RD3106038291559667,C061,D031,11.35,849.3,12.54,861.84,Paytm
+Auto,23-07-2024,completed,Marathahalli Quarry,RT Nagar Layout,23,RD3998157708968080,C147,D030,22.33,930.07,41.92,971.99,Amazon Pay
+Auto,10-08-2024,completed,Banerghatta Road Summit,Anjanapura Passage,106,RD6989803709765956,C148,D029,2.69,884.47,7.61,892.08,GPay
+Parcel,28-07-2024,completed,Banashankari 5th Block,Hebbal Kempapura Estate,68,RD6409117000779361,C180,D057,26.38,131.95,16,147.95,Amazon Pay
+Auto,23-07-2024,completed,Banerghatta Road 5th Stage,Kothanur Area,72,RD0747010559794238,C006,D038,46.01,100.11,22.71,122.82,Paytm
+Bike,08-07-2024,completed,Doddakannelli Terrace,Hosur Sarjapur Road Layout Arc,14,RD9364999350845358,C169,D013,2.12,320.86,44.7,365.56,Paytm
+Cab,23-07-2024,completed,Dodda Banaswadi Pier,Giri Nagar Quay,12,RD1440215830840972,C071,D040,23.47,412.51,30.13,442.64,QR scan
+Auto,24-06-2024,completed,Rachenahalli Arcade,Hennur Road Valley,27,RD1862118616873751,C145,D038,5.97,518.12,29.87,547.99,Paytm
+Bike,22-07-2024,completed,JP Nagar Quarters,Agrahara Layout Pier,105,RD6815227825537872,C176,D024,20.29,874.24,4.97,879.21,Paytm
+Auto,26-06-2024,completed,Nagawara Arcade,Horamavu Agara 2nd Stage,52,RD8435515147530171,C013,D039,36.8,554.2,3.06,557.26,Amazon Pay
+Auto,06-08-2024,completed,Kasavanahalli Extension,Sadashiva Nagar 2nd Stage,99,RD6855544850334498,C156,D036,35.8,414.3,31.11,445.41,GPay
+Bike,27-07-2024,cancelled,Nandini Layout Place,Attibele Pass,41,RD1005466962973089,C128,D010,46.37,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Nayandahalli Mews,Byatarayanapura Lane,63,RD4018462577727126,C199,D008,28.63,178.84,2.71,181.55,QR scan
+Bike,28-06-2024,completed,Malleshwaram Nagar,Mahadevapura Square,68,RD8184168582846810,C156,D012,4.25,539.48,47.01,586.49,Amazon Pay
+Bike,04-08-2024,completed,Koramangala 4th Block Boulevard,Dasarahalli Arc,100,RD0207466520285590,C057,D021,43.29,963.76,39.21,1002.97,GPay
+Cab,02-08-2024,completed,MG Road Park,Kasavanahalli Area,89,RD0151343314889334,C049,D049,47.95,630.11,33.88,663.99,Amazon Pay
+Cab,07-07-2024,completed,Kumaraswamy Layout Yard,Hulimavu Township,70,RD2600572108061030,C065,D050,10.97,467.36,32.31,499.67,GPay
+Parcel,04-07-2024,completed,Kothanur Promenade,Ganganagar Close,43,RD8403999425912734,C194,D060,22.12,510.38,1.69,512.07,Amazon Pay
+Bike,23-07-2024,completed,Vidyaranyapura Yard,Kothanur Area,72,RD4319540468262376,C197,D022,23.87,104.58,13.16,117.74,GPay
+Bike,13-08-2024,completed,Pai Layout Drive,JP Nagar Square,16,RD8565520891961423,C175,D005,42.35,728.99,1.3,730.29,Amazon Pay
+Bike,24-06-2024,completed,Kothnur Station,Dodda Banaswadi Trail,67,RD3983210034238971,C161,D004,1.5,329.93,18.27,348.2,GPay
+Auto,06-08-2024,cancelled,Kundalahalli Estate,Sadashiva Nagar Square,56,RD1796831941675431,C161,D035,31.31,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,Hennur Passage,Kadubeesanahalli Landing,22,RD8859683254294924,C011,D010,37.16,401.19,38.65,439.84,QR scan
+Cab,26-07-2024,completed,Koramangala 7th Block Bay,Munnekollal Arcade,19,RD8008889685387481,C113,D040,6.14,254.31,40.5,294.81,QR scan
+Bike,03-08-2024,completed,Anekal Ridge,Tavarekere Hills,70,RD1521036877356665,C149,D012,1.3,974.79,10.2,984.99,Amazon Pay
+Bike,30-06-2024,completed,Chokkanahalli Station,Banaswadi 1st Block,63,RD2093550028338203,C188,D005,48.74,704.22,9.77,713.99,GPay
+Bike,26-07-2024,completed,Bellandur Outer Ring Road Square,Horamavu Agara Plaza,67,RD9285435713154850,C024,D010,47.52,400.05,12.66,412.71,Paytm
+Parcel,26-07-2024,completed,KR Puram Place,Mysore Road Complex,97,RD1832726787422901,C084,D060,33.99,899.06,31.98,931.04,Paytm
+Cab,15-07-2024,completed,Gottigere Pier,Hebbal Kempapura Woods,13,RD8145683336069486,C192,D046,49.43,818.67,17.89,836.56,Amazon Pay
+Auto,05-07-2024,completed,Koramangala 7th Block Pier,Mahadevapura Terrace,34,RD2000826056839554,C045,D028,46.96,628.29,40.98,669.27,Paytm
+Auto,23-07-2024,cancelled,Chikkajala Ridge,Harohalli 5th Stage,104,RD4898293695484704,C034,D037,49.98,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,RMV 2nd Stage Promenade,Ashok Nagar Layout,81,RD5180175149862032,C139,D054,4.5,513.7,36.67,550.37,QR scan
+Cab,15-07-2024,completed,Pai Layout Valley,Bellandur Outer Ring Road Dam,86,RD4501976926710972,C094,D048,37.04,190.84,13.07,203.91,Amazon Pay
+Auto,02-07-2024,completed,Hebbal Road,Amruthahalli Fields,65,RD8412166491689614,C129,D039,21.18,847.61,28.97,876.58,QR scan
+Cab,23-07-2024,completed,Marathahalli 5th Stage,Koramangala 7th Block Fields,46,RD0062761273938254,C070,D053,44.26,190.17,3.24,193.41,GPay
+Parcel,18-07-2024,completed,Chikka Banaswadi Road,Banaswadi 6th Block,47,RD8528258182780228,C043,D057,4.83,63.42,41.94,105.36,QR scan
+Parcel,08-08-2024,completed,Horamavu Agara Viewpoint,Peenya 4th Stage,117,RD0592092316569109,C124,D057,19.89,980.84,26.2,1007.04,Amazon Pay
+Bike,10-07-2024,completed,Thanisandra Esplanade,Kaggalipura Bay,80,RD5648045462195415,C192,D011,14.8,533.28,9.78,543.06,QR scan
+Auto,03-08-2024,completed,Gottigere Plaza,Arekere Drive,110,RD0728457146721725,C030,D032,28.3,103.47,27.96,131.43,QR scan
+Cab,08-07-2024,completed,Sahakar Nagar Pass,Vijayanagar Quadrant,34,RD1927452483277056,C020,D042,6.15,75.68,40.4,116.08,Paytm
+Cab,10-08-2024,completed,MG Road 5th Stage,HRBR Layout Complex,36,RD1328365267174979,C194,D043,49.6,627.15,36.38,663.53,Paytm
+Parcel,15-08-2024,cancelled,Kasavanahalli Meadows,HRBR Layout Hills,58,RD2620426453108701,C174,D060,3.98,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,Nayandahalli Quarry,Horamavu Banaswadi 4th Block,107,RD8178353930387750,C173,D013,44.67,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Sanjay Nagar Quadrant,Babusapalya Drive,11,RD7483220462111565,C143,D012,40.51,611.33,31.92,643.25,Paytm
+Bike,26-07-2024,completed,Malleshwaram Passage,Madivala 3rd Stage,20,RD6139286068886055,C024,D013,15.49,401.34,9.33,410.67,Paytm
+Auto,28-06-2024,completed,Adugodi Circle,Anjanapura Track,48,RD0687612828987378,C004,D029,37.93,777.05,44.97,822.02,Amazon Pay
+Auto,08-08-2024,completed,Frazer Town 1st Block,Koramangala 8th Block Track,94,RD8450274977992068,C138,D026,28.61,558.36,21.97,580.33,GPay
+Parcel,08-08-2024,completed,Anekal Layout,KR Puram Circle,47,RD3451975471985518,C117,D057,39.01,377.75,9.7,387.45,Amazon Pay
+Parcel,22-07-2024,completed,Kalyan Nagar 6th Block,Kengeri 2nd Block,17,RD0032101304302461,C173,D060,40.58,345.81,24.74,370.55,Paytm
+Auto,03-07-2024,completed,Varthur 4th Block,Dr. Shivaram Karanth Nagar Colony,39,RD5486137723351501,C173,D029,39.75,929.2,34.34,963.54,GPay
+Cab,08-07-2024,completed,Subramanyapura 1st Block,Basavanagudi Dam,56,RD0382167485706280,C150,D046,29.65,162.45,21.58,184.03,GPay
+Auto,01-07-2024,completed,Kadubeesanahalli Cross,Vijayanagar Enclave,105,RD5394585419849461,C164,D030,13.27,434.31,27.38,461.69,GPay
+Bike,21-06-2024,completed,Kodigehalli Court,ITI Layout Crescent,43,RD6757271172898389,C028,D022,32.51,145.67,36.44,182.11,GPay
+Auto,03-08-2024,completed,Hosur District,Kothnur Park,102,RD7514466479784103,C060,D032,23.15,767.18,43.8,810.98,GPay
+Bike,29-06-2024,completed,Dommasandra Station,Frazer Town Bay,12,RD4890206203731192,C007,D020,48.36,218.08,46.42,264.5,QR scan
+Parcel,02-07-2024,completed,HRBR Layout Dam,Hennur Heights,96,RD7784956376660777,C144,D057,27.26,756.26,24.99,781.25,Paytm
+Cab,28-06-2024,completed,VV Puram View,HRBR Layout Woods,63,RD7775544187267545,C157,D043,14.21,690.39,47.42,737.81,Paytm
+Cab,20-07-2024,cancelled,Hennur Road Square,Hosur Cutting,97,RD2140714158403601,C166,D041,42.48,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,HRBR Layout Trail,Magadi Road Sector,96,RD8309224256052962,C163,D015,34.69,117.61,22.57,140.18,QR scan
+Auto,06-07-2024,cancelled,Nagwara Meadows,Kothaguda Cutting,47,RD8953421978045994,C180,D029,26.24,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Hosur Sarjapur Road Layout 5th Stage,Hosur Sarjapur Road Layout Heights,111,RD4407163381028138,C167,D046,31.8,155.85,24.28,180.13,Paytm
+Cab,22-07-2024,completed,Bommanahalli Crescent,Banashankari Quarters,51,RD7423748905285339,C030,D042,29.56,725.87,3.97,729.84,Amazon Pay
+Bike,25-07-2024,completed,Vijayanagar Drive,Bellandur Outer Ring Road Pass,83,RD5641653543508118,C012,D002,22.08,980.13,14.82,994.95,Paytm
+Auto,12-08-2024,completed,Kadubeesanahalli Place,Hebbal Harbor,88,RD8164679926712029,C078,D032,29.48,556.73,2.04,558.77,Paytm
+Auto,23-07-2024,completed,Sonnenahalli Run,Avalahalli Fields,47,RD8682274949143220,C030,D026,6.02,400.28,28.07,428.35,Amazon Pay
+Auto,10-08-2024,completed,Hoodi Garden,Babusapalya Loop,26,RD4491041177125972,C061,D039,10.9,797.55,20.71,818.26,GPay
+Parcel,28-07-2024,completed,Begur District,Benniganahalli Trail,45,RD3009493818224583,C138,D056,42.1,209.13,46.55,255.68,Amazon Pay
+Auto,23-07-2024,completed,Electronic City Colony,Vidya Vihar 6th Stage,37,RD4462551154102566,C100,D032,24.95,698.26,8.31,706.57,Paytm
+Bike,08-07-2024,completed,Dr. Shivaram Karanth Nagar Cove,RMV 2nd Stage Park,51,RD3598116858455698,C095,D022,18.18,349.16,41.1,390.26,Paytm
+Cab,23-07-2024,completed,Horamavu Agara Enclave,Bellandur 4th Block,76,RD0901869861977006,C191,D051,14.6,736.97,13.06,750.03,QR scan
+Auto,24-06-2024,completed,Kothnur Quay,Subbanna Palya Side,29,RD6749090827612407,C139,D031,23.83,820.58,24.29,844.87,Paytm
+Bike,22-07-2024,completed,Basavanagudi Heights,Vijayanagar Depot,91,RD6077347620740979,C151,D024,19.4,969.31,28.3,997.61,Paytm
+Auto,26-06-2024,completed,Indiranagar Way,Banashankari Alcove,90,RD9327250966689932,C187,D027,10.33,764.22,20.96,785.18,Amazon Pay
+Auto,06-08-2024,completed,Nagarbhavi Cutting,Rajajinagar Sector,58,RD2623636742635822,C107,D035,27.3,207.23,5.37,212.6,GPay
+Bike,27-07-2024,cancelled,Byatarayanapura Promenade,Mysore Road Alcove,114,RD5012237599711174,C026,D016,49,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Dasarahalli Alcove,Anekal Dam,59,RD9426261952525831,C158,D014,15.62,856.56,2.11,858.67,QR scan
+Bike,28-06-2024,completed,KR Puram Place,Peenya Track,82,RD9095739126672760,C072,D002,21.06,691.42,39.15,730.57,Amazon Pay
+Bike,04-08-2024,completed,Kasturi Nagar Cove,BTM Layout Layout,26,RD5524923026567224,C177,D012,44.04,973,8.4,981.4,GPay
+Cab,02-08-2024,completed,Kanakapura Plaza,Kalyan Nagar 3rd Block,65,RD8080018907116953,C056,D047,41.99,522.32,2.09,524.41,Amazon Pay
+Cab,07-07-2024,completed,Bellandur Outer Ring Road Quarters,Basaveshwaranagar District,79,RD6595814665035628,C114,D043,10.92,889.87,22.55,912.42,GPay
+Parcel,04-07-2024,completed,Bellandur Outer Ring Road Quarry,Kundalahalli Quarters,31,RD3703409580699193,C093,D055,31.91,re,23.6,213.45,Amazon Pay
+Bike,23-07-2024,completed,Horamavu Valley,Attibele 2nd Block,88,RD9050429611350197,C176,D012,47.27,691.5,31.38,722.88,GPay
+Bike,13-08-2024,completed,Sahakar Nagar Court,Marathahalli Extension,34,RD1147910612580899,C140,D021,32.72,626.55,29.58,656.13,Amazon Pay
+Bike,24-06-2024,completed,Horamavu Banaswadi Quay,Adugodi Pier,105,RD1613357529198999,C092,D002,33.3,829.42,49.65,879.07,GPay
+Auto,06-08-2024,cancelled,Begur Cut,Basaveshwaranagar Heights,26,RD9600000044637723,C102,D029,41.56,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,Dodda Banaswadi Cross,Koramangala 4th Block Alcove,112,RD9304580925557870,C049,D004,13.33,784.51,11.94,796.45,QR scan
+Cab,26-07-2024,completed,JP Nagar Arcade,Kumaraswamy Layout Vista,111,RD8300774551920519,C117,D041,5.71,626.41,44.54,670.95,QR scan
+Bike,03-08-2024,completed,Shivaji Nagar Way,Dooravani Nagar Vista,51,RD1542707220635636,C170,D007,24.85,822.35,7.61,829.96,Amazon Pay
+Bike,30-06-2024,completed,Lingarajapuram Quarters,Jalahalli 4th Stage,106,RD5465881637882066,C165,D021,37.7,99.11,15.86,114.97,GPay
+Bike,26-07-2024,completed,HRBR Layout 6th Block,Banaswadi Cove,39,RD2585908053893578,C153,D001,17.65,999.6,14.94,1014.54,Paytm
+Cab,26-07-2024,cancelled,Ramnagar Cross,Dodda Banaswadi Colony,41,RD4057860464536626,C013,D041,40.68,0,0,0,GPay
+Cab,15-07-2024,completed,Koramangala District,Bellandur Cut,57,RD1489320831166915,C086,D043,32.97,519.89,46.34,566.23,Amazon Pay
+Auto,05-07-2024,completed,Koramangala 7th Block Woods,Kanaka Nagar 4th Block,73,RD6667139461387627,C033,D037,8.65,823.79,22.01,845.8,Paytm
+Auto,23-07-2024,cancelled,Nandini Layout Quarry,MG Road Commons,109,RD4457758886685593,C145,D028,10.97,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Gottigere Enclave,Dr. Shivaram Karanth Nagar 3rd Stage,66,RD6296774494188934,C018,D053,34.39,150.23,30.43,180.66,QR scan
+Cab,15-07-2024,completed,Jalahalli Estate,Rajajinagar Promenade,80,RD8447701566135876,C196,D048,8.01,863,40.94,903.94,Amazon Pay
+Auto,02-07-2024,completed,Bagalur 1st Block,Koramangala 4th Block Promenade,117,RD7305120981303203,C054,D034,7.09,867.78,22.56,890.34,QR scan
+Cab,23-07-2024,completed,Whitefield Landing,Ganganagar Summit,119,RD6005722555013310,C056,D053,48.95,88.54,37.15,125.69,GPay
+Parcel,18-07-2024,completed,Yeshwanthpur Landing,Frazer Town Park,36,RD3658769304180165,C060,D057,31.46,736.82,22.36,759.18,QR scan
+Parcel,08-08-2024,completed,Amruthahalli Layout,Basavanagudi 3rd Block,98,RD9985592252924517,C199,D056,41.58,810.36,43.68,854.04,Amazon Pay
+Bike,10-07-2024,completed,Chikkalasandra 1st Block,Kaval Byrasandra Road,13,RD2629938936244479,C153,D001,15.73,461.42,28.57,489.99,QR scan
+Auto,03-08-2024,completed,Chokkanahalli Trail,Ramnagar Park,102,RD2793870059873280,C071,D038,49.91,63.42,5.72,69.14,QR scan
+Cab,08-07-2024,completed,Harohalli Township,Devarachikkanahalli Passage,42,RD0800974590158653,C038,D042,39.31,168.88,28.14,197.02,Paytm
+Cab,10-08-2024,completed,Vijayanagar Quay,Madivala Loop,41,RD2375547484977547,C139,D044,18.72,674.61,17.32,691.93,Paytm
+Parcel,15-08-2024,cancelled,Nagasandra Cutting,Chikkagubbi Landing,23,RD0052848883176547,C045,D055,12.76,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,Jayanagar 1st Stage,Nandini Layout Ridge,106,RD2300995082264579,C170,D001,45.12,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Gottigere Quarry,Koramangala 7th Block 5th Block,44,RD8988937284712994,C034,D001,39.91,216.08,28.06,244.14,Paytm
+Bike,26-07-2024,completed,Nandini Layout Close,Hennur Road Park,28,RD7031806646440888,C092,D008,17.81,816.03,40.35,856.38,Paytm
+Auto,28-06-2024,completed,Bagalur Bridge,Hebbal Cove,62,RD7962932619474870,C151,D030,22.7,117.26,31.14,148.4,Amazon Pay
+Auto,08-08-2024,completed,Byatarayanapura Cove,Kothaguda Arcade,34,RD6380189307560679,C005,D027,34.26,656.12,22.06,678.18,GPay
+Parcel,08-08-2024,completed,Devarachikkanahalli Heights,Kothnur Grove,96,RD3012781017133834,C068,D055,20.96,135.12,48.28,183.4,Amazon Pay
+Parcel,22-07-2024,completed,Devarachikkanahalli Pier,Hebbal Fork,54,RD5691375596286645,C033,D060,8.7,126.71,48.38,175.09,Paytm
+Auto,03-07-2024,completed,Hosur Sarjapur Road Layout Circle,Koramangala 4th Block Square,52,RD0593188290803024,C108,D033,35.21,523.59,42.79,566.38,GPay
+Cab,08-07-2024,completed,Ramamurthy Nagar Fork,Jakkasandra Quadrant,109,RD2943975665081576,C030,D051,25.1,476.56,21.47,498.03,GPay
+Auto,01-07-2024,completed,Benniganahalli Vista,Chandra Layout District,115,RD8493291885829113,C017,D032,2.61,809.69,24.98,834.67,GPay
+Bike,21-06-2024,completed,KR Puram 4th Stage,Doddaballapur Crescent,97,RD5443820255520143,C115,D012,43.81,79.82,42.17,121.99,GPay
+Auto,03-08-2024,completed,Lingarajapuram Cove,JP Nagar Cove,72,RD7408079205652803,C132,D034,48.65,905.78,31.31,937.09,GPay
+Bike,29-06-2024,completed,Horamavu Agara Esplanade,Kothnur Commons,68,RD7845040814040868,C028,D015,4.8,587.06,3.59,590.65,QR scan
+Parcel,02-07-2024,completed,Horamavu Agara Harbor,Electronic City 3rd Stage,13,RD1386429884610902,C129,D056,3.11,323.55,31.8,355.35,Paytm
+Cab,28-06-2024,completed,MG Road Woods,Hebbal Layout,106,RD8189958682235766,C158,D040,18.96,312.16,4.54,316.7,Paytm
+Cab,20-07-2024,cancelled,Babusapalya Road,Shivaji Nagar Valley,30,RD0536475447679712,C187,D052,20.08,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Adugodi Hills,Amruthahalli 6th Stage,83,RD2800923447873955,C169,D017,40.16,346.99,29.94,376.93,QR scan
+Auto,06-07-2024,cancelled,Kanaka Nagar Alley,Kadubeesanahalli Quay,82,RD7831560398407916,C078,D032,3.92,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Hebbal Kempapura Loop,Mysore Road 2nd Block,16,RD7323521597113719,C165,D040,39.17,756.87,27.56,784.43,Paytm
+Cab,22-07-2024,completed,Kothaguda Bay,Sahakar Nagar Area,43,RD2364398604851246,C016,D047,36.01,664.17,39.27,703.44,Amazon Pay
+Bike,25-07-2024,completed,Dooravani Nagar Summit,Subramanyapura Fields,57,RD2961661632930995,C103,D014,16.37,235.87,23.42,259.29,Paytm
+Auto,12-08-2024,completed,Benniganahalli Cove,Rajajinagar Run,99,RD0892054256404479,C176,D026,31.47,298.71,32.33,331.04,Paytm
+Auto,23-07-2024,completed,Sonnenahalli Pier,Whitefield 2nd Block,48,RD3874927414390343,C126,D036,11.38,203.75,46.43,250.18,Amazon Pay
+Auto,10-08-2024,completed,Electronic City Alley,Kasturi Nagar 5th Block,25,RD5833610335785014,C114,D026,21.84,602.13,7.47,609.6,GPay
+Parcel,28-07-2024,completed,Vidya Vihar Place,Chikkajala Extension,71,RD5637722920816887,C021,D057,35.21,161.59,23.17,184.76,Amazon Pay
+Auto,23-07-2024,completed,JP Nagar Esplanade,Kaval Byrasandra Drive,51,RD1300654829589630,C156,D027,46.25,806.99,2.14,809.13,Paytm
+Bike,08-07-2024,completed,Agara Yard,Hosur Road Court,84,RD6986998258078286,C017,D005,23.52,99.75,39.12,138.87,Paytm
+Cab,23-07-2024,completed,Domlur Grove,Hennur Enclave,54,RD5421037900937526,C071,D049,13.79,99.89,43.09,142.98,QR scan
+Auto,24-06-2024,completed,Jayanagar 1st Stage,Horamavu Banaswadi Area,88,RD7082345753227147,C163,D034,2.6,557.6,13.43,571.03,Paytm
+Bike,22-07-2024,completed,Kanakapura Zone,RT Nagar Cross,84,RD8877809542495888,C141,D023,35.28,306.41,23.22,329.63,Paytm
+Auto,26-06-2024,completed,Frazer Town Way,Kodigehalli Station,69,RD3579461117042123,C084,D031,39.72,617.46,18.55,636.01,Amazon Pay
+Auto,06-08-2024,completed,Billekahalli Mews,Kanakapura Pier,27,RD3892868372959569,C153,D033,6.61,149.66,37.61,187.27,GPay
+Bike,27-07-2024,cancelled,Magadi Road Dam,Mysore Road Boulevard,109,RD2399207491712531,C076,D015,26.82,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Doddanekundi 1st Block,Chikkagubbi Colony,55,RD4029072464285660,C130,D020,38.95,691.2,11.94,703.14,QR scan
+Bike,28-06-2024,completed,Yelahanka Way,Hosur Road Colony,62,RD5301071198577337,C111,D004,41.79,784.05,36.84,820.89,Amazon Pay
+Bike,04-08-2024,completed,Ramnagar Esplanade,Vidya Vihar Place,30,RD2401758180416583,C180,D004,35.57,520.84,16.53,537.37,GPay
+Cab,02-08-2024,completed,Rajajinagar 5th Block,Pai Layout Bridge,43,RD2991814691660865,C168,D050,1.01,631.68,20.37,652.05,Amazon Pay
+Cab,07-07-2024,completed,Indiranagar Woods,Nagarbhavi Enclave,46,RD0651249296200928,C197,D048,24.58,689.45,15.25,704.7,GPay
+Parcel,04-07-2024,completed,Chandra Layout Zone,BTM 2nd Stage Arc,60,RD6812607703654869,C185,D056,11.26,751.32,17.31,768.63,Amazon Pay
+Bike,23-07-2024,completed,Doddakannelli Landing,Domlur Village,24,RD2649146441719169,C111,D015,49.97,193.86,27.52,221.38,GPay
+Bike,13-08-2024,completed,RT Nagar Nagar,Kasturi Nagar Close,102,RD6470136078775365,C059,D014,17.77,199.09,13.67,212.76,Amazon Pay
+Bike,24-06-2024,completed,Chikkalasandra 6th Block,Basaveshwaranagar Arcade,70,RD8001995259786974,C087,D015,26.14,943.67,20.06,963.73,GPay
+Auto,06-08-2024,cancelled,RT Nagar Woods,Hosur Side,37,RD5110134555911799,C103,D031,29.21,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,Lingarajapuram Yard,Nagarbhavi Estate,49,RD4551887732650381,C187,D004,30.06,768.17,49.27,817.44,QR scan
+Cab,26-07-2024,completed,Peenya Viewpoint,Attibele Circle,69,RD0494350597518733,C081,D046,37.57,563.67,21.26,584.93,QR scan
+Bike,03-08-2024,completed,Hulimavu Landing,Nandini Layout Harbor,102,RD3132013482950790,C081,D022,7.82,139.43,19.9,159.33,Amazon Pay
+Bike,30-06-2024,completed,Harohalli Depot,Bikasipura Place,117,RD4732079782406078,C066,D012,25.59,516.76,3.56,520.32,GPay
+Bike,26-07-2024,completed,Marathahalli Arcade,Ashok Nagar 5th Stage,38,RD0815814888962017,C040,D022,22.62,862.81,43.3,906.11,Paytm
+Bike,03-08-2024,completed,Begur Hills,Vidya Vihar Run,54,RD0919744087429922,C122,D022,23.53,388.14,4.07,392.21,Paytm
+Cab,15-07-2024,completed,Begur Township,Kothaguda Summit,11,RD5197198688225156,C018,D041,10.71,80.64,36.66,117.3,Amazon Pay
+Auto,05-07-2024,completed,Chikka Banaswadi Nagar,Horamavu Agara Quarry,72,RD2314319976518426,C022,D026,14.49,752.51,5.38,757.89,Paytm
+Auto,23-07-2024,cancelled,KR Puram Layout,Horamavu Banaswadi Circle,58,RD7771542641644244,C111,D026,17.99,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Yeshwanthpur Road,BTM 2nd Stage Cut,103,RD5918623171380329,C191,D051,5.92,50.48,8.01,58.49,QR scan
+Cab,15-07-2024,completed,Bommasandra Terrace,HRBR Layout Vista,72,RD3772076229577988,C096,D052,26.47,621.21,31.53,652.74,Amazon Pay
+Auto,02-07-2024,completed,Naganathapura Mews,Seshadripuram Alley,24,RD4569515518745569,C034,D033,34.97,66.36,32.38,98.74,QR scan
+Cab,23-07-2024,completed,Anjanapura Farms,Srirampura Place,108,RD6021331323740749,C016,D049,21.32,734.36,47.25,781.61,GPay
+Parcel,18-07-2024,completed,Malleshwaram Farms,Hennur Nagar,31,RD1219980306839168,C144,D059,46.92,96.83,20.88,117.71,QR scan
+Parcel,08-08-2024,completed,Subramanyapura Side,Koramangala Depot,71,RD2951081446501681,C085,D060,24.45,143.91,31.03,174.94,Amazon Pay
+Bike,10-07-2024,completed,JP Nagar Alley,Bhuvaneshwari Nagar Quarry,38,RD5152215465179028,C032,D014,38.16,482.16,39.38,521.54,QR scan
+Auto,03-08-2024,completed,Hulimavu Colony,Madivala Track,15,RD5364663404555814,C091,D038,3.6,768.56,36.69,805.25,QR scan
+Cab,08-07-2024,completed,Munnekollal Valley,Varthur 1st Stage,116,RD8906681754771618,C171,D052,35.51,943.73,21.07,964.8,Paytm
+Cab,10-08-2024,completed,Chikkalasandra Commons,Ramamurthy Nagar Colony,64,RD4808509263230876,C109,D053,17.61,139.69,35.38,175.07,Paytm
+Parcel,15-08-2024,cancelled,Yelahanka New Town Hills,Vijayanagar Promenade,38,RD2354161574637539,C185,D055,17,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,KR Puram Cross,Nagawara 3rd Stage,111,RD0506316298614903,C074,D020,1.58,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Kengeri Quarry,Nagarbhavi Township,18,RD2435783581202067,C080,D012,27.33,597.83,24.61,622.44,Paytm
+Bike,26-07-2024,completed,Hosur Road Quay,Giri Nagar Depot,36,RD5808739085001931,C027,D019,42,503.67,0.58,504.25,Paytm
+Auto,28-06-2024,completed,Harohalli Quarters,Bommanahalli Promenade,71,RD0937277933547199,C130,D028,13.1,169.14,27.86,197,Amazon Pay
+Auto,08-08-2024,completed,Jakkur Lane,Chikka Banaswadi Promenade,104,RD5503531574884674,C040,D035,25.11,173.78,34.53,208.31,GPay
+Parcel,08-08-2024,completed,MG Road 4th Block,Dr. Shivaram Karanth Nagar Pier,58,RD7891622564587936,C124,D056,38.59,627.65,35.43,663.08,Amazon Pay
+Parcel,22-07-2024,completed,Bikasipura 6th Stage,Hosur 1st Stage,92,RD0890109759385183,C028,D057,13.61,539.87,39.67,579.54,Paytm
+Auto,03-07-2024,completed,Bhuvaneshwari Nagar Way,Naganathapura Track,42,RD6120996240895691,C143,D030,31.37,824.24,31.16,855.4,GPay
+Cab,08-07-2024,completed,Basaveshwaranagar Yard,Chikkajala 3rd Stage,105,RD3429782672976004,C030,D052,12.31,980.22,27.21,1007.43,GPay
+Auto,01-07-2024,completed,Banashankari Layout,Vidyaranyapura Alley,82,RD5333840724602193,C072,D034,36.83,504.36,18.17,522.53,GPay
+Bike,21-06-2024,completed,Bommanahalli 6th Stage,VV Puram Heights,56,RD4070526250351422,C058,D014,19,649.97,21.62,671.59,GPay
+Auto,03-08-2024,completed,Babusapalya Estate,Chikkalasandra Pointe,37,RD5176964376674584,C144,D037,28.91,102.91,42.9,145.81,GPay
+Bike,29-06-2024,completed,Benniganahalli Zone,Bommasandra Road,32,RD3428883944180385,C160,D020,4.14,565.39,47.43,612.82,QR scan
+Parcel,02-07-2024,completed,Bommanahalli Valley,Bommasandra Fork,82,RD8653484222330924,C173,D060,7.41,206.85,42.92,249.77,Paytm
+Cab,28-06-2024,completed,Ramamurthy Nagar View,Bellandur Outer Ring Road 5th Stage,106,RD1626198729508981,C143,D040,39.72,317.16,20.53,337.69,Paytm
+Cab,20-07-2024,cancelled,Ramamurthy Nagar Circle,Hoodi Enclave,119,RD3082994499863721,C156,D054,7,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Mahadevapura Quarry,Kundalahalli Grove,33,RD5062303942200114,C169,D023,45.24,873.1,14.95,888.05,QR scan
+Auto,06-07-2024,cancelled,Madivala Valley,Basaveshwaranagar Complex,21,RD8389108743575172,C069,D025,47.89,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Kasavanahalli Trail,Hoodi Run,94,RD4364492846406567,C047,D044,46.42,260.65,45,305.65,Paytm
+Cab,22-07-2024,completed,KR Puram Area,Mahalakshmi Layout Esplanade,75,RD7052233664370774,C180,D052,37.61,769.83,25.07,794.9,Amazon Pay
+Bike,25-07-2024,completed,Nagawara 4th Stage,Hennur Road 3rd Block,26,RD5507724549930971,C080,D011,35.27,343.34,25.01,368.35,Paytm
+Auto,12-08-2024,completed,Babusapalya Pier,Chikkabellandur Ridge,38,RD1970668248767321,C090,D025,15.4,643.22,48.31,691.53,Paytm
+Auto,23-07-2024,completed,Dommasandra Terrace,Hulimavu Trail,100,RD1401900056158923,C047,D038,47.15,464.95,42.1,507.05,Amazon Pay
+Auto,10-08-2024,completed,Hennur Road Close,ITI Layout 2nd Block,97,RD5340126674211246,C037,D034,35.07,800.33,38.33,838.66,GPay
+Parcel,28-07-2024,completed,Ganganagar Fields,Avalahalli Nagar,52,RD8071886701811403,C169,D058,4.46,383.52,12.67,396.19,Amazon Pay
+Auto,23-07-2024,completed,Malleshwaram Landing,Munnekollal Works,111,RD3828640416213793,C018,D027,14.3,558.62,43.17,601.79,Paytm
+Bike,08-07-2024,completed,Bhadrappa Layout Commons,Hoodi Alcove,23,RD6930122818009390,C190,D021,34.06,79.28,45.09,124.37,Paytm
+Cab,23-07-2024,completed,Marathahalli Layout,JP Nagar Trail,51,RD0283198918763280,C008,D041,31.86,442.01,42.6,484.61,QR scan
+Auto,24-06-2024,completed,Benniganahalli Ridge,Marathahalli 4th Block,69,RD6799342978994082,C192,D033,1.39,384.7,5.07,389.77,Paytm
+Bike,22-07-2024,completed,KR Puram Garden,Koramangala 7th Block Passage,42,RD1145511881317094,C056,D013,35.32,736.46,44.85,781.31,Paytm
+Auto,26-06-2024,completed,Jayanagar Trail,Marathahalli Pointe,81,RD4729078245041106,C108,D032,5.06,937.54,13.42,950.96,Amazon Pay
+Auto,06-08-2024,completed,Nagasandra Colony,Peenya Layout,107,RD3346076572218331,C088,D027,27.29,756.53,14.34,770.87,GPay
+Bike,27-07-2024,cancelled,Kengeri Estate,Whitefield Quay,100,RD9686365685206361,C095,D010,22.63,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Kanakapura Bay,Hennur Road Way,44,RD8657340985973702,C185,D011,33.32,376.47,15.36,391.83,QR scan
+Bike,28-06-2024,completed,Nelamangala Pointe,Kundalahalli Alley,109,RD1416617552497556,C199,D019,33.38,100.94,8.67,109.61,Amazon Pay
+Bike,04-08-2024,completed,Amruthahalli Cross,Dodda Banaswadi Farms,64,RD8490084368669634,C153,D003,10.45,570.46,12.76,583.22,GPay
+Cab,02-08-2024,completed,Kengeri Park,Mahadevapura Quarry,99,RD8905274111842528,C014,D042,34.6,500.88,3.01,503.89,Amazon Pay
+Cab,07-07-2024,completed,Yelahanka New Town Esplanade,KR Puram Summit,43,RD3910226697298373,C041,D052,12.76,343.66,40.51,384.17,GPay
+Parcel,04-07-2024,completed,Hebbal 5th Block,VV Puram Track,114,RD8869020166893548,C159,D055,8.31,931.9,24.21,956.11,Amazon Pay
+Bike,23-07-2024,completed,Dasarahalli Bay,Sonnenahalli Cutting,31,RD2353133074181213,C173,D003,29.22,593.47,43.27,636.74,GPay
+Bike,13-08-2024,completed,Agrahara Layout Harbor,Kothnur View,61,RD0519310555979486,C070,D015,36.62,315.35,22.15,337.5,Amazon Pay
+Bike,24-06-2024,completed,Hosur Road Landing,Mahalakshmi Layout Viewpoint,60,RD9321737524647663,C170,D014,41.57,365.13,41.87,407,GPay
+Auto,06-08-2024,cancelled,Kengeri Viewpoint,Hebbal Kempapura Road,19,RD0758426911051740,C125,D034,30.49,0,0,0,Payment Cancelled
+Bike,01-08-2024,completed,Kalyan Nagar Quarry,Dooravani Nagar Lane,11,RD5978205479089397,C114,D014,46.62,664.63,47.2,711.83,QR scan
+Cab,26-07-2024,completed,Jakkur Square,Ramamurthy Nagar Hills,24,RD4043181884696912,C070,D043,19.92,933.44,9.63,943.07,QR scan
+Bike,03-08-2024,completed,Sadashiva Nagar Loop,Kasturi Nagar Cross,73,RD6416788647035890,C194,D017,34.57,519.07,29.73,548.8,Amazon Pay
+Bike,30-06-2024,completed,RMV 2nd Stage 4th Block,Vijayanagar Trail,86,RD5418560121964687,C030,D012,13.63,792.43,44.86,837.29,GPay
+Bike,26-07-2024,completed,Bhadrappa Layout 3rd Stage,Banashankari Pointe,56,RD8350376937770138,C111,D004,46.09,688.31,41.16,729.47,Paytm
+Bike,25-07-2024,completed,Harohalli Extension,Kasturi Nagar Bridge,16,RD1830815888312076,C073,D014,37.54,848.01,8.66,856.67,Paytm
+Cab,15-07-2024,completed,Vasanth Nagar 4th Stage,Nagawara 2nd Block,27,RD5487807307436220,C174,D050,45.12,829.33,4.62,833.95,Amazon Pay
+Auto,05-07-2024,completed,HSR Layout 5th Block,Chikkajala Crescent,82,RD9805209361029510,C152,D032,10.86,948.79,29.75,978.54,Paytm
+Auto,23-07-2024,cancelled,Indiranagar 3rd Stage,Kalena Agrahara 1st Block,46,RD9463040950663096,C135,D035,32.42,0,0,0,Payment Cancelled
+Cab,24-06-2024,completed,Pai Layout Quadrant,Indiranagar Alley,65,RD6975396265533359,C079,D040,18.87,237.91,17.66,255.57,QR scan
+Cab,15-07-2024,completed,Dommasandra Landing,Tavarekere Ridge,56,RD6710536092883543,C057,D046,43.12,297.61,26.06,323.67,Amazon Pay
+Auto,02-07-2024,completed,Rachenahalli Station,Attibele Depot,117,RD0781181472443655,C154,D025,47.38,302.42,23.17,325.59,QR scan
+Cab,23-07-2024,completed,Horamavu Viewpoint,Nagarbhavi Trail,33,RD8390718649366535,C002,D043,42.36,640.67,40.6,681.27,GPay
+Parcel,18-07-2024,completed,Indiranagar Court,Kumaraswamy Layout Arc,21,RD1980611306848834,C078,D056,44.74,815.79,26.49,842.28,QR scan
+Parcel,08-08-2024,completed,Agara Enclave,Kadubeesanahalli Harbor,41,RD6758813845654987,C197,D056,41.11,802.67,45.32,847.99,Amazon Pay
+Bike,10-07-2024,completed,Kasavanahalli Viewpoint,Magadi Road Grove,28,RD9045467948905166,C196,D009,46.38,277.46,15.47,292.93,QR scan
+Auto,03-08-2024,completed,Hennur Road Works,Koramangala 4th Block,64,RD9211714079341384,C075,D030,8.64,362.64,8.29,370.93,QR scan
+Cab,08-07-2024,completed,Kasavanahalli Bridge,Benniganahalli Layout,53,RD5932974664061447,C031,D040,43.86,578.48,19.75,598.23,Paytm
+Cab,10-08-2024,completed,Dasarahalli Depot,Nandini Layout Bridge,14,RD7986298446076960,C128,D051,23.35,335.67,4.44,340.11,Paytm
+Parcel,15-08-2024,cancelled,Magadi Road Works,Banerghatta Road Estate,34,RD9223495420549900,C111,D056,16.67,0,0,0,Payment Cancelled
+Bike,22-07-2024,cancelled,Banashankari Ridge,HRBR Layout 5th Block,54,RD3633557508149912,C034,D013,7.4,0,0,0,Payment Cancelled
+Bike,24-07-2024,completed,Subramanyapura Zone,Ashok Nagar Cut,70,RD6399400220877193,C137,D023,16.03,431.43,1.11,432.54,Paytm
+Bike,26-07-2024,completed,Gottigere Harbor,Harohalli Circle,23,RD6359960575786687,C059,D017,12.47,109.94,23.87,133.81,Paytm
+Auto,28-06-2024,completed,Benniganahalli 6th Block,Kaval Byrasandra Landing,43,RD9627086926168524,C144,D038,34.5,668.38,34.24,702.62,Amazon Pay
+Auto,08-08-2024,completed,Amruthahalli Enclave,Kengeri Valley,53,RD9017690199469654,C172,D037,38.67,110.82,29.49,140.31,GPay
+Parcel,08-08-2024,completed,Billekahalli 5th Block,Hulimavu Loop,12,RD7193536528756354,C091,D055,10.69,286.74,25.81,312.55,Amazon Pay
+Parcel,22-07-2024,completed,Vasanth Nagar Summit,Kothanur Quarters,15,RD3275496152834157,C102,D060,34.07,404.07,48.53,452.6,Paytm
+Auto,03-07-2024,completed,Benson Town Commons,Begur Estate,17,RD8274455699768008,C011,D031,5.06,501.45,2.8,504.25,GPay
+Cab,08-07-2024,completed,Mysore Road Garden,Horamavu Agara Bridge,90,RD9516859578608138,C005,D047,45.64,923.72,13.48,937.2,GPay
+Auto,01-07-2024,completed,Attibele 1st Block,Kengeri Passage,66,RD9225042338001949,C020,D038,34.85,934.75,26,960.75,GPay
+Bike,21-06-2024,completed,RT Nagar Fields,Marathahalli Depot,46,RD6633615041254605,C081,D019,1.44,215.15,2,217.15,GPay
+Auto,03-08-2024,completed,Bellandur 4th Stage,HRBR Layout Fork,69,RD9400942559206788,C110,D034,35.99,811.23,47.48,858.71,GPay
+Bike,29-06-2024,completed,Nagarbhavi Side,Dr. Shivaram Karanth Nagar Drive,119,RD8553158816390812,C104,D023,35.41,578.71,45.37,624.08,QR scan
+Parcel,02-07-2024,completed,VV Puram Station,Sadashiva Nagar Station,96,RD9959227095272911,C164,D058,34.52,411.56,11.37,422.93,Paytm
+Cab,28-06-2024,completed,Tavarekere Landing,Kothaguda Pier,59,RD5133636686885127,C075,D041,46.12,126.11,33.52,159.63,Paytm
+Cab,20-07-2024,cancelled,Hosur Sarjapur Road Layout Vista,Chikkagubbi 1st Stage,18,RD8634223086626507,C104,D040,29.61,0,0,0,Payment Cancelled
+Bike,05-08-2024,completed,Kudlu Gate Woods,Dommasandra Terrace,40,RD5383215542619265,C084,D006,10.39,969.39,28.91,998.3,QR scan
+Auto,06-07-2024,cancelled,Shivaji Nagar Pointe,VV Puram Dam,56,RD6082533377318331,C159,D032,8.18,0,0,0,Payment Cancelled
+Cab,01-08-2024,completed,Babusapalya Quay,Kalyan Nagar District,39,RD1848953948246693,C177,D054,47,140.42,32.14,172.56,Paytm
+Cab,22-07-2024,completed,Hebbal Landing,Magadi Road Summit,61,RD6815435691498113,C093,D041,5.46,483.95,0.94,484.89,Amazon Pay
+Bike,25-07-2024,completed,Ramnagar Pointe,Dooravani Nagar Valley,22,RD2892523898433862,C112,D004,14.7,710.8,33.38,744.18,Paytm
+Auto,12-08-2024,completed,Gottigere Zone,Horamavu Fork,47,RD1370907206616622,C063,D031,27.29,118.24,34.75,152.99,Paytm
+Auto,23-07-2024,completed,Koramangala 7th Block Cove,Mahalakshmi Layout Garden,94,RD2793880520219130,C151,D031,22.99,782.44,9.98,792.42,Amazon Pay
+Auto,10-08-2024,completed,Hennur Boulevard,Dommasandra Harbor,36,RD6752770178698353,C135,D026,9.51,418,0.67,418.67,GPay
+Parcel,28-07-2024,completed,Harohalli 2nd Block,Bhadrappa Layout Bridge,119,RD7528595958714012,C102,D057,41.82,649.54,32.85,682.39,Amazon Pay
+Auto,23-07-2024,completed,Mahadevapura Arcade,Madiwala Quarry,100,RD0070188478775964,C191,D030,36.13,816.44,42.56,859,Paytm
+Bike,08-07-2024,completed,Lingarajapuram 5th Block,HRBR Layout Commons,60,RD4453971534500116,C057,D011,8.33,307.02,34.62,341.64,Paytm
+Cab,23-07-2024,completed,Hennur Road Square,Koramangala 6th Block Terrace,56,RD7919037544338091,C200,D042,49.39,734.93,35.26,770.19,QR scan
+Auto,24-06-2024,completed,Gottigere Works,Naganathapura Cutting,17,RD6676323183474422,C020,D033,6.71,380.48,10.43,390.91,Paytm
+Bike,22-07-2024,completed,Benniganahalli Drive,Bhuvaneshwari Nagar Zone,91,RD3872602028870006,C163,D004,47.66,467.93,11.2,479.13,Paytm
+Auto,26-06-2024,completed,Ramnagar View,Chikkajala Hills,116,RD4441794440296266,C136,D033,16.17,993.67,12.03,1005.7,Amazon Pay
+Auto,06-08-2024,completed,Kothaguda Run,Kanakapura Woods,116,RD9811239326241315,C050,D039,12.03,440.83,49.42,490.25,GPay
+Bike,27-07-2024,cancelled,Nagwara Landing,Rajarajeshwari Nagar Park,89,RD4961806104815600,C199,D012,22.56,0,0,0,Payment Cancelled
+Bike,23-06-2024,completed,Kundalahalli 3rd Stage,Vidyaranyapura Square,94,RD1035443759588201,C090,D024,42.27,165.11,17.64,182.75,QR scan
+Bike,28-06-2024,completed,Chikkalasandra Grove,Harohalli Pier,77,RD7986096802306074,C166,D005,31.68,542.24,4.48,546.72,Amazon Pay
+Bike,04-08-2024,completed,Ramamurthy Nagar Quay,Kothanur Quadrant,69,RD3468138659000696,C061,D004,32.22,810.08,36.24,846.32,GPay
+Cab,02-08-2024,completed,Mysore Road Lane,Nelamangala 6th Stage,50,RD4736783048069760,C038,D044,46.37,69.86,17.72,87.58,Amazon Pay
+Cab,07-07-2024,completed,Kumaraswamy Layout 6th Block,Kalena Agrahara Drive,49,RD9869199368761966,C051,D042,25.62,770.71,16.99,787.7,GPay
+Parcel,04-07-2024,completed,Balagere 2nd Block,Kothaguda Viewpoint,105,RD6207304202869473,C155,D056,36.04,401.61,47.6,449.21,Amazon Pay
+Bike,23-07-2024,completed,Hosur Sarjapur Road Layout Quarry,KR Puram Crescent,12,RD6121514882245175,C195,D021,23.72,585.81,34.91,620.72,GPay
